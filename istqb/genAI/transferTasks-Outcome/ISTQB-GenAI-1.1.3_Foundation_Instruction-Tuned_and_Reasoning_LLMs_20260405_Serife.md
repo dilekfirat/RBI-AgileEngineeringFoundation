@@ -65,7 +65,7 @@ A decision matrix and 3 clear model-selection rules.
 | Testfallgenerierung (komplex)  | Wenn Szenario komplex ist → **Reasoning LLM verwenden** |
 | Ursachenanalyse von Fehlern    | Wenn Ursache eines Fehlers analysiert werden soll → **Reasoning LLM verpflichtend verwenden** |
 
-🔹 LLM Auswahl für QA Aufgaben
+ 🔹 LLM Auswahl für QA Aufgaben
 
 Anforderungszusammenfassung → Instruction-Tuned LLM → Beispiel: ChatGPT  
 Testfallgenerierung → Instruction-Tuned LLM → Beispiel: ChatGPT  
