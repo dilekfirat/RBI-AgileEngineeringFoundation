@@ -13,4 +13,6 @@ In parallel, improve the security foundation of the webshop by implementing secu
 - US2350-Provide Product Articles in Czech Language
 - US3100-Add PayU Payment Support for Czech Customers
 - US3206-MD5 Hashed password
+- US3409-Fix vulnerability in "Auth-X32"
+- US4700-Login during checkout workflow
 - US5003-Replace ORMapper
