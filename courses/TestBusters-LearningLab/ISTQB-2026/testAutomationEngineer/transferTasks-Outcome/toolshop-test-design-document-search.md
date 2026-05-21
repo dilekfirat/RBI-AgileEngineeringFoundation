@@ -15,7 +15,7 @@ The objective is to ensure comprehensive and maintainable test coverage for the 
 # Feature Overview
 
 **Feature Under Test:** Search Functionality  
-**Application:** Toolshop 
+**Application:** Toolshop  
 **Base URL:** https://practicesoftwaretesting.com  
 **Business Importance:** High  
 **Primary Goal:** Ensure users can reliably find products under normal and abnormal conditions.
@@ -49,12 +49,12 @@ The objective is to ensure comprehensive and maintainable test coverage for the 
 
 ---
 
-# T1 – Typical Cases
+# T1 – Standard Cases
 
 ## TC-T1-01
 **T-Level:** T1  
 **Test Name:** T1_search_hammer_6productsFound  
-**Priority:** High 
+**Priority:** High  
 **Automation Candidate:** Yes  
 
 **Preconditions:**  
@@ -80,7 +80,7 @@ Search term: Hammer
 
 ## TC-T1-02
 **T-Level:** T1  
-**Test Name:** T1_search_thorHammer_7productsFound  
+**Test Name:** T1_search_thorHammer_1productFound  
 **Priority:** High  
 **Automation Candidate:** Yes  
 
@@ -97,8 +97,7 @@ Search term: Thor hammer
 
 
 **Expected Result:**  
-- Text visible "7 products found for 'Thor hammer'"
-- Product with name "Thor hammer" appears on top of the listed products
+- Text visible "1 product found for 'Thor hammer'"
 
 **Risks / Notes:**  
 
@@ -135,7 +134,7 @@ Product with the name "sledgehammer" only appears on partial searches.
 **T-Level:** T2  
 **Test Name:** T2_search_HaMmer_6productsFound  
 **Priority:** Medium  
-**Automation Candidate:** No  
+**Automation Candidate:** Yes  
 
 **Preconditions:**  
 Product catalog contains multiple products with name "hammer"
@@ -159,7 +158,7 @@ Search term: HaMmer
 
 ## TC-T3-01
 **T-Level:** T3  
-**Test Name:** T3_search_specialCharacterInput_NoProductsDisplayed  
+**Test Name:** T3_search_specialCharacterInput_noProductsDisplayed  
 **Priority:** Medium  
 **Automation Candidate:** Yes  
 
@@ -185,12 +184,12 @@ Searches with different special characters should not behave differently than ot
 
 ## TC-T3-02
 **T-Level:** T3  
-**Test Name:** T3_search_longSearchInput_relevantProductsDisplayed  
+**Test Name:** T3_search_longSearchInput_noProductsDisplayed  
 **Priority:** Medium  
 **Automation Candidate:** Yes  
 
 **Preconditions:**  
-Product catalog contains searchable products with name "drill"
+Product catalog contains searchable products
 
 **Input Data:**  
 Search term: industrial heavy duty cordless electric hammer drill
@@ -201,12 +200,12 @@ Search term: industrial heavy duty cordless electric hammer drill
 3. Click "Search" button 
 
 **Expected Result:**  
-- The search request is processed successfully
-- Text visible "10 products found for 'industrial heavy duty cordless electric hammer drill'"
-- Search results are consistent with backend API response
+- Text visible "There are no products found."
+- No product should be listed
 
 **Risks / Notes:**  
-It should be defined how long of an input is allowed and the expected behaviour.
+It should be defined how long of an input is allowed and the expected behaviour. 
+Search results should be consistent with backend API response.
 
 ---
 
@@ -259,7 +258,7 @@ Search term: light saber
 - No products listed
 
 **Risks / Notes:**  
-____________________________________
+
 
 ---
 
@@ -267,7 +266,7 @@ ____________________________________
 
 ## TC-T5-01
 **T-Level:** T5  
-**Test Name:** T5_search_SQLInjectionInput_inputHandledSecurely  
+**Test Name:** T5_search_SQLInjectionInput_noProductsDisplayed  
 **Priority:** High  
 **Automation Candidate:** Yes  
 
@@ -283,7 +282,7 @@ Search term : ' OR '1'='1
 3. Click "Search" button
 
 **Expected Result:**  
-- Text visible "products found for '' OR '1'='1'"
+- Text visible "There are no products found."
 - No unintended data is exposed
 - Input is treated as plain text
 
@@ -294,7 +293,7 @@ Search term : ' OR '1'='1
 
 ## TC-T5-02
 **T-Level:** T5  
-**Test Name:** T5_search_scriptInjectionInput_inputHandledSecurely  
+**Test Name:** T5_search_scriptInjectionInput_noProductsDisplayed  
 **Priority:** High  
 **Automation Candidate:** Yes  
 
@@ -310,7 +309,7 @@ Search term: `<script>alert('test')</script>`
 3. Click "Search" button
 
 **Expected Result:**  
-- Text visible "products found for '`<script>alert('test')</script>`'"
+- Text visible "There are no products found."
 - Script is not executed  
 - No alert or popup is displayed
 
