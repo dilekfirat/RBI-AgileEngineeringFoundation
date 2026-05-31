@@ -1,8 +1,8 @@
 # US5003 - Replace OR-Mapper
 
 Background: Due to security and performance reasons the maintainance of ORMapper Versions 1.2 is deprecated. 
-We must replace the version 1.2 with 2.0. In the version 1.2 fields was stored in the wrong database fields 
-althougt the mapping configuration was correct.
+We must replace the version 1.2 with 2.0. 
+In the version 1.2 some fields was stored in the wrong database fields althougt the mapping configuration was correct. Example: Lastname from UI was stored in firstname on backend, and firstname from UI was stored in lastname in backend.
 
 
 ## US5003-Replace-ORMapper
