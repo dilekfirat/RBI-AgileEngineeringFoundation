@@ -59,7 +59,7 @@ Consider:
 
 Prioritize the stories using:
 
-- MUST (2)
+- MUST (3)
   - Critical
   - Must be tested before release
 
@@ -71,7 +71,7 @@ Prioritize the stories using:
   - Nice to have
   - Optional coverage
 
-- WON’T (3)
+- WON’T (4)
   - Out of scope
   - Not worth testing this sprint
 

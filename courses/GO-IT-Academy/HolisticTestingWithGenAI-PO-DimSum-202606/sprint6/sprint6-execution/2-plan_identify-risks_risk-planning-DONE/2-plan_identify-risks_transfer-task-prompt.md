@@ -22,7 +22,7 @@ The **ToolShop** is the system under test. The product team is preparing the nex
 
 2. Author **prompt A** for one model or provider, asking the model to help you **analyse risks** and **prioritise testing** for these stories. You define what “risk” means in the prompt, what evidence from the files the model should use, and what structured output you want.
 
-3. Apply **MoSCoW** to the stories with these slot targets: **MUST 2**, **SHOULD 1**, **COULD 2**, **WON’T 3**. Your prompts and your own judgement should align with that portfolio; document **your** reasoning, not only the model’s.
+3. Apply **MoSCoW** to the stories with these slot targets: **MUST 3**, **SHOULD 1**, **COULD 1**, **WON’T 4**. Your prompts and your own judgement should align with that portfolio; document **your** reasoning, not only the model’s.
 
 4. OPTIONAL: Author **prompt B** for a **different** model or provider (or a clearly different instruction style). Avoid pasting one mega-prompt unchanged—adapt so you learn what changes the answers.
 
