@@ -1,6 +1,7 @@
 # Sprint Goal
 
 ## Sprint 6.ZERO (10:00-13:00) (US Ready ESG)
+- Sprint Goals
 - Infrastructure
   - ToolShop is running local on each team members workstation
   - Playwright is installed on each team members workstation
