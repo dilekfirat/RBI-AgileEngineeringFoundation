@@ -50,12 +50,13 @@ The project shall provide:
 
 The project is organized into four major iterations.
 
-| Phase | Focus | Management Objective |
-|---|---|---|
-| Iteration 1 | Ready for Czech Market | Coordinate testing for Czech market readiness |
-| Iteration 2 | AI Ready | Coordinate testing for AI readiness and related quality risks |
-| Iteration 3 | Ready for US West Coast | Coordinate testing for US West Coast market readiness |
-| Iteration 4 | Ready for Japan | Coordinate testing for Japanese market readiness |
+| Phase | Repo | Focus | Management Objective |
+|---|---|---|---|
+|Iteration 1|sprint5| Ready for Multi Market | Coordinate testing multi market readiness with language support |
+|Iteration 2|sprint5-holtesting | Ready for Czech Market | Coordinate testing for Czech market readiness |
+|Iteration 3|sprint6| AI Ready  | Coordinate testing for AI readiness and related quality risks |
+|Iteration 4|sprint7| Ready for US West Coast | Coordinate testing for US West Coast market readiness |
+|Iteration 5|sprint8| Ready for Japan| Coordinate testing for Japanese market readiness |
 
 ---
 
