@@ -12,6 +12,8 @@
 
 **Date:** March 2026  
 
+## Dokumentensteuerung / Changlog aufnehmen als Tabelle
+
 ---
 
 ## 1. Introduction
@@ -20,9 +22,12 @@ This Product Test Plan describes the test strategy, test scope, and planned test
 
 The test plan is derived from the overarching Test Policy and defines how testing activities are implemented at the product level.  
 
-The objective of this test plan is to ensure that key use cases of the web application are tested in a systematic, structured, and traceable manner.  
+The objective of this test plan is to ensure that the  application ist tested in a systematic, structured, and traceable manner.  
 
 The focus is on business-critical and supporting e-commerce use cases as defined in the test scope.
+
+## schedule / milestones 
+(in table)
 
 ---
 
@@ -30,7 +35,7 @@ The focus is on business-critical and supporting e-commerce use cases as defined
 
 The main objectives of this test plan are:
 
-- Verification of the functional requirements of the web application  
+- Validation of the functional requirements of the web application  
 - Ensuring a stable and error-free user experience  
 - Early detection of critical defects  
 - Reduction of risks in key business processes (e.g. registration and checkout)  
@@ -39,7 +44,7 @@ The main objectives of this test plan are:
 
 ## 3. Test Scope
 
-### 3.1 In Scope
+### 3.1 In Scope (biitte als tabell darstelln)
 
 The test scope is derived from the defined use cases and focuses on business-critical (**MUST**) and supporting (**SHOULD**) functionalities.
 
@@ -115,7 +120,7 @@ The following areas are not part of this test plan:
 
 ## 4. Test Items
 
-The test scope focuses on the presentation layer of the system.
+The test scope focuses on the presentation layer (WEBUI) of the system.
 
 Covered components include:
 
@@ -130,7 +135,7 @@ Interactions with backend services (REST API) are tested indirectly through UI-b
 
 ## 5. Test Strategy
 
-### 5.1 Test Levels
+### 5.1 Test Levels (bitte als tabelle)
 
 Testing is performed on different levels:
 
@@ -147,8 +152,8 @@ Dedicated integration tests at API or service level are out of scope for this te
 User Acceptance Testing (UAT) is included as a test level, where predefined acceptance criteria are validated, even if executed by testers on behalf of business stakeholders.
 
 ---
-
-### 5.2 Test Approach
+ 
+### 5.2 Test Approach (als tabelle darstellen)
 
 The testing approach is based on:
 
@@ -182,9 +187,9 @@ Misuse cases (T5) are considered to validate system robustness and to simulate u
 
 ---
 
-### 5.4 Test Techniques
+### 5.4 Test Design Techniques
 
-The following test techniques are applied:
+The following test design techniques are applied:
 
 - Equivalence Partitioning  
 - Boundary Value Analysis  
@@ -245,7 +250,9 @@ Test data should be designed in a way that tests remain repeatable despite perio
 
 ---
 
-## 8. Roles and Responsibilities
+## x Test Automation (verweis auf Dileks TA STrategy)
+
+## 8. Roles and Responsibilities (bitte als tabelle darstellen)
 
 ### Tester (Product Level – Gülbin Deniz)
 
@@ -312,9 +319,9 @@ The test process is considered complete when:
 
 ---
 
-## 11. Test Deliverables
+## 11. Test Deliverables (bitte als tabelle und mit ablage ort)
 
-The following artifacts are created:
+The following test artifacts are created:
 
 - Product Test Plan  
 - Test cases (T1–T5)  
