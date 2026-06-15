@@ -19,9 +19,9 @@ The goals of this Test Automation Strategy are to:
 ---
 
 
-## 3. System Under Test (SUT) Overview
+## 2. System Under Test (SUT) Overview
 
-### 3.1 Architecture Overview
+### 2.1 Architecture Overview
 
 The System Under Test (SUT) is the public Practice Software Testing Toolshop application.
 
@@ -60,11 +60,11 @@ Based on the publicly available project structure and observed application behav
 
 The project is publicly available on GitHub and supports collaborative testing and automation activities.
 
-### 3.2 Test Automation Scope
+### 2.2 Test Automation Scope
 
 The test automation scope defines the boundaries of what will be automated.
 
-#### 3.2.1 The Most Important Use Cases
+#### 2.2.1 The Most Important Use Cases
 
 **1. User Registration**
 - Register a new customer account using valid input data
@@ -91,7 +91,8 @@ The test automation scope defines the boundaries of what will be automated.
 - Reference Test Case:
   - T1_CHECKOUT_withValidCredentialsAndValidWorkflow_invoiceIdWillBeDisplayed
 
-### 3.3 Test Automation Tools
+### 2.3 Test Automation Tools
+
 
 | Layer               | Tool            | Automation Approach                                      |
 | ------------------- | --------------- | -------------------------------------------------------- |
@@ -103,11 +104,17 @@ The test automation scope defines the boundaries of what will be automated.
 | Database Layer      | Implicit via UI | Validated indirectly through UI and application behavior |
 | REST Services Layer | Implicit via UI | Validated indirectly through API and UI interactions     |
 
-### 3.4 Test Automation Patterns
+### 2.3.1 Tool Mapping Overview
+
+The following diagram illustrates the mapping of tools, technologies, and automation components to the Generic Test Automation Architecture (gTAA) layers. It provides an overview of how the Toolshop Test Automation Solution is structured and which tools are used in each layer.
+
+![Toolshop gTAA Tool Mapping](TAE-3.1.1_toolshop_gTAA_tool_mapping.jpg)
+
+### 2.4 Test Automation Patterns
 
 The following test automation patterns will be applied within the Toolshop test automation solution.
 
-#### 3.4.1 Page Object Model (POM)
+#### 2.4.1 Page Object Model (POM)
 
 The Page Object Model (POM) pattern will be used to separate test logic from UI implementation details.
 
@@ -130,7 +137,7 @@ Examples:
 * ShoppingCartPage
 * CheckoutPage
 
-#### 3.4.2 Data-Driven Testing (DDT)
+#### 2.4.2 Data-Driven Testing (DDT)
 
 The Data-Driven Testing (DDT) pattern will be used to separate test data from test logic.
 
@@ -152,9 +159,13 @@ Examples:
 * Registration tests using unique user data to allow repeated execution without database resets
 * API-based creation of product test data
 
+#### 2.4.3 Keyword-Driven Testing (KDT)
+
+TBD
+
 ---
 
-## 4. Responsibilities
+## 3. Responsibilities
 
 | Activity | Responsible |
 |-----------|------------|
@@ -163,13 +174,13 @@ Examples:
 | Maintain automated tests | TAE |
 | Update and maintain test automation tools | TAE |
 
-## 5. Test Automation Principles
+## 4. Test Automation Principles
 
 - We automate to detect regression
 - We automate to provide fast feedback
 - We don't automate checks of acceptance criteria
 - We don’t automate unstable functionality
-- We permanently re-evaluate & analyze our automated tests and asking ourselves 
+- We continuously re-evaluate & analyze our automated tests and asking ourselves 
   - What is the test doing? 
   - What value is this test providing?
   - Is this testing the right thing?
@@ -180,7 +191,7 @@ Examples:
 - Tests run in dedicated testing environments
 - UI tests ensure the whole system works as per some common user scenarios and use cases
 
-## 6. Test Data Management
+## 5. Test Data Management
 
 Test data should support reliable, repeatable, and independent automated test execution.
 
