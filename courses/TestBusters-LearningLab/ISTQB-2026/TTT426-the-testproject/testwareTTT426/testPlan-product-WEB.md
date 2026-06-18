@@ -182,21 +182,13 @@ Interactions with backend services (REST API) are tested indirectly through UI-b
 
 ### 5.3 Test Design Approach (T1–T5)
 
-Test cases are designed using the T1–T5 test design model:
-
-- T1: Happy path (standard case)  
-- T2: Alternative scenarios  
-- T3: Exception cases  
-- T4: Negative testing  
-- T5: Misuse scenarios  
-
-Each user story is covered by a structured set of test cases based on this model.
-
-For business-critical use cases (MUST, as defined in Section 3.1 Test Scope), at least T1, T3, and T4 test cases are defined.  
-
-For supporting use cases (SHOULD), at least one T1 test case is defined.
-
-Misuse cases (T5) are considered to validate system robustness and to simulate unintended or erroneous user behavior (e.g. invalid inputs or misuse of UI flows).
+| Category | Description | Minimum Coverage |
+|-----------|-------------|------------------|
+| T1 | Happy Path (standard case) | MUST and SHOULD |
+| T2 | Alternative Scenarios | When alternative flows exist |
+| T3 | Exception Cases | MUST |
+| T4 | Negative Testing | MUST |
+| T5 | Misuse Scenarios | When robustness or misuse risks exist |
 
 ---
 
