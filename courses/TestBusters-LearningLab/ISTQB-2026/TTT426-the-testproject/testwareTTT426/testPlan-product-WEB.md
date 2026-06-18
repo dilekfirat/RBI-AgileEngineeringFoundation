@@ -28,16 +28,16 @@ The main focus is on business-critical and supporting e-commerce use cases as de
 
 ### 1.1 Timeline
 
-| Milestone | Date | Comment |
-|-----------|------------|---------|
-| Project Kick-off | 2026-06-19 | Shared understanding of objectives, roles, and scope |
-| Product Test Plan Approved | 2026-06-26 | Overall test direction agreed |
-| Phase 1 Readiness Review | 2026-07-24 | Czech market readiness assessed |
-| Phase 2 Readiness Review | 2026-09-04 | AI readiness assessed |
-| Phase 3 Readiness Review | 2026-10-16 | US West Coast readiness assessed |
-| Phase 4 Readiness Review | 2026-11-27 | Japan readiness assessed |
-| Final Project Review | TBD | Overall quality status and recommendation delivered |
-| Investor Presentation | 2027-01-02 | Final project presentation |
+| Milestone ID| Milestone | Date | Comment |
+|----|-----------|------------|---------|
+| M1 | Project Kick-off | 2026-06-19 | Shared understanding of objectives, roles, and scope |
+| M2 | Product Test Plan Approved | 2026-06-26 | Overall test direction agreed |
+| M3 | Phase 1 Readiness Review | 2026-07-24 | Czech market readiness assessed |
+| M4 | Phase 2 Readiness Review | 2026-09-04 | AI readiness assessed |
+| M5 | Phase 3 Readiness Review | 2026-10-16 | US West Coast readiness assessed |
+| M6 | Phase 4 Readiness Review | 2026-11-27 | Japan readiness assessed |
+| M7 | Final Project Review | TBD | Overall quality status and recommendation delivered |
+| M8 | Investor Presentation | 2027-01-02 | Final project presentation |
 
 
 
