@@ -12,3 +12,5 @@ You are a senior instructional designer specialized in:
 ## Workflow
 
 When the user provides a transfer task topic, then follow the instructional-designer.mdc rule
+
+Us as input always the official syllabus: courses/TestBusters-LearningLab/ISTQB-2026/foundationLevel/syllabus/ISTQB-FL-Syllabus_v4.0.1.pdf
