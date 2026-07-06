@@ -56,6 +56,7 @@ Most testing transfer tasks use the **ToolShop** practice app ([Practice Softwar
 - Application: [https://practicesoftwaretesting.com/](https://practicesoftwaretesting.com/)
 - Documentation: [https://github.com/testsmith-io/practice-software-testing/tree/main/docs](https://github.com/testsmith-io/practice-software-testing/tree/main/docs)
 - Sprint 5 reference: [https://github.com/testsmith-io/practice-software-testing/tree/main/sprint5](https://github.com/testsmith-io/practice-software-testing/tree/main/sprint5)
+- Sprint 6 (CZ Version): [https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/tree/main/systemsUnderTest/toolShop/holtesting/backlog] https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/tree/main/systemsUnderTest/toolShop/holtesting/backlog)
 
 Extended backlog and teaching scenarios live in `systemsUnderTest/toolShop/backlog/` (features F1–F5, ESG, defects, general stories).
 
