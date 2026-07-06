@@ -1,11 +1,11 @@
 # Test Summary Report – V5
 
-**ToolShop Web Application – Version 5**
+## ToolShop Web Application – Version 5
 
 ## Document Information
 
 | Field | Information |
-|--------|-------------|
+|-------|-------------|
 | Project | ToolShop Web Application |
 | Team | QualityQuest Consulting (QQC) |
 | Version | V5 |
@@ -18,15 +18,15 @@
 
 ---
 
-## 1. Purpose
+# 1. Purpose
 
 This Test Summary Report summarizes the testing activities performed for ToolShop Web Application Version 5. It provides an overview of the test scope, test execution, test results, identified defects, and the release recommendation for Version 5.
 
 ---
 
-## 2. Test Scope
+# 2. Test Scope
 
-### Tested Functional Areas
+The following functional areas were tested for Version 5:
 
 - Admin Account
 - Authentication
@@ -36,10 +36,10 @@ This Test Summary Report summarizes the testing activities performed for ToolSho
 - Product Detail
 - Product Category
 
-### Features Not Tested
+### Not Tested
 
-- Multi Language (Test cases were not completed.)
-- Privacy Policy (No test cases were available.)
+- Multi Language *(test cases were not completed)*
+- Privacy Policy *(no test cases available)*
 
 ### Test Approach
 
@@ -52,10 +52,10 @@ This Test Summary Report summarizes the testing activities performed for ToolSho
 
 ---
 
-## 3. Test Execution Summary
+# 3. Test Execution Summary
 
 | Metric | Result |
-|---------|-------:|
+|--------|-------:|
 | Planned Test Cases | 115 |
 | Executed Test Cases | 84 |
 | Passed | 75 |
@@ -63,65 +63,101 @@ This Test Summary Report summarizes the testing activities performed for ToolSho
 | Blocked | 2 |
 | Not Executed | 31 |
 
-The detailed test results are documented in Testiny.
+Detailed execution results are documented in [Testiny](https://app.testiny.io/p/96/testcases/tc/682).
 
 ---
 
-## 4. Test Results
+# 4. Test Results
 
-The planned test activities were carried out in accordance with the Product Test Plan.
+The planned testing activities were executed according to the Product Test Plan.
 
-The User Acceptance Test (UAT) was successfully completed.
+User Acceptance Testing (UAT) was successfully completed.
 
-In addition to manual testing, automated tests were executed using Playwright. The results of the automated test runs are documented in Testiny.
-
----
-
-## 5. Defect Summary
-
-During User Acceptance Testing, several findings were identified.
-
-| Defect | Severity | Priority | Status |
-|---------|----------|----------|--------|
-|  | High | P1 | Open |
-|  | Medium | P2 | Fixed |
-|  | Low | P3 | Open |
+In addition to manual testing, automated testing was performed using Playwright. The results of the automated test runs are documented in Testiny.
 
 ---
 
-## 6. Risks and Limitations
+# 5. Defect Summary
 
-During UAT, not all planned test cases could be executed. A total of **31 test cases** were not executed.
+Several findings were identified during User Acceptance Testing (UAT).
 
-The following areas could not be fully tested:
+| Bug ID | Summary | Severity | Priority | Status | Comment |
+|--------|---------|----------|----------|--------|---------|
+| BUG-001 | Registration accepts invalid postal code values during account creation | Medium | P2 | Open | Review and correct the postal code validation in Version 6. |
+| BUG-002 | Contact form file upload validation failed | Medium | P1 | Open | Resolve in Version 6. |
+| BUG-003 | Password change fails with valid current and new password | High | P1 | Open | Investigate the root cause and resolve in Version 6. |
+| BUG-004 | Password strength validation does not work during registration | Medium | P2 | Open | Review and improve the password strength validation in Version 6. |
+| BUG-005 | Multiple payment submissions are possible after payment | High | P1 | Open | Prevent multiple payment submissions and resolve in Version 6. |
 
-- Multi Language (Test cases were not completed.)
-- Privacy Policy (No test cases were available.)
+Detailed defect information, testing evidence and debugging findings are documented separately.
+
+**Reference**
+
+- [GitHub Issues (Defect Documentation and Tracking):](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/tree/main/courses/TestBusters-LearningLab/ISTQB-2026/TTT426-the-testproject/testbasisTTT426/issues)
 
 ---
 
-## 7. Release Recommendation
+# 6. Risks and Limitations
 
-Based on the completed testing activities and the successful completion of User Acceptance Testing (UAT), the release of ToolShop Web Application Version 5 is recommended.
+Not all planned test cases could be executed during UAT. A total of **31 test cases** were not executed.
+
+The following functional areas could not be fully tested:
+
+- Multi Language *(test cases were not completed)*
+- Privacy Policy *(no test cases available)*
+
+### Identified Residual Risks
+
+**Multi Language**
+
+The functionality could not be tested. Therefore, there is a risk that language switching or translations may not work correctly for the planned Czech rollout in Version 6, potentially affecting the user experience.
+
+**Privacy Policy**
+
+Since no test cases were available, this functionality could not be verified. Therefore, a residual risk remains regarding compliance with data protection requirements (e.g., GDPR) and the correct presentation of privacy-related information.
 
 ---
 
-## 8. References
+# 7. Release Recommendation
 
-- Product Test Plan V5
-- Sprint Test Plan
-- Testiny (Test Cases and Test Results)
-- GitHub Issues (Defect Tracking)
-- ISO/IEC/IEEE 29119-3
+Based on the results of the User Acceptance Test, the QA team recommends the release of Version 5.
+
+The identified defects will be tracked according to their priority and are planned to be resolved in Version 6.
+
+---
+
+# 8. Release Decision
+
+The final release decision will be made and documented by the Product Owner based on the test results and identified defects.
+
+**Product Owner:** Rudolf Gröetz
+
+**Decision:**
+
+- ☐ Approved
+- ☐ Approved with Conditions
+- ☐ Not Approved
+
+**Date:**
+
+---
+
+# 9. References
+
+- [Product Test Plan V5](https://github.com/guelbin/RBI-AgileEngineeringFoundation/blob/update-product-test-plan-v1.1/courses/TestBusters-LearningLab/ISTQB-2026/TTT426-the-testproject/testwareTTT426/testPlan-product-WEB.md)
+- [Sprint Test Plan](https://app.testiny.io/p/96/testplans/tp/114)
+- [Testiny (Test Cases and Test Results)](https://app.testiny.io/p/96/testruns/tr/188/tc/694)
+- [GitHub Issues (Defect Tracking Repository)](https://github.com/rgroetz2/TBLL-AgileEngineeringFoundation/tree/main/courses/TestBusters-LearningLab/ISTQB-2026/TTT426-the-testproject/testbasisTTT426/issues)
+- [ISO/IEC/IEEE 29119-3](https://wildart.github.io/MISG5020/standards/ISO-IEC-IEEE-29119-3.pdf)
 
 ---
 
 # Appendix
 
-## Test Run Overview
+## Test Execution Overview
 
 | Test Run | Planned | Executed | Passed | Failed | Blocked | Not Executed |
-|-----------|--------:|---------:|-------:|-------:|--------:|-------------:|
+|----------|--------:|---------:|-------:|-------:|--------:|-------------:|
 | CRUD | 6 | 0 | 0 | 0 | 0 | 6 |
 | Reporting | 5 | 0 | 0 | 0 | 0 | 5 |
 | Login | 5 | 5 | 5 | 0 | 0 | 0 |
