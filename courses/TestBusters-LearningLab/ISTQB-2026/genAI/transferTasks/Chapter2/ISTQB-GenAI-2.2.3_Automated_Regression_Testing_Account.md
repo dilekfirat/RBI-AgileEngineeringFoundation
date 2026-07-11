@@ -1,6 +1,6 @@
 
 ### 1. Title
-Create an AI-Assisted Regression Scope After Change
+Create a set of regression tests with GenAI for the profile/account feature.
 
 ---
 
@@ -10,12 +10,14 @@ ISTQB GenAI – 2.2.3 Automated Regression Testing with Generative AI
 ---
 
 ### 3. Learning Objective
-Use GenAI to identify impacted areas and derive a focused regression test subset.
+Use GenAI to create a set of regressions tests (T1-T5) and automate the T1.
 
 ---
 
 ### 4. Context / Scenario
-After UAT V5 some code changes in the profile feature was necessary. Create a set of regression test via GenAI to validate these changes. Use only black-box testing approach, no white-box testing. 
+For V6 some code changes in the profile feature was necessary. The field validation is now available for each field and the password will now be stored in SHA-256 instead of MD-5. 
+
+Create a set of regression test via GenAI to validate that these changes do not lead to regression. 
 
 ---
 
@@ -29,7 +31,7 @@ After UAT V5 some code changes in the profile feature was necessary. Create a se
 ---
 
 ### 6. Expected Outcome / Deliverable
-Regression scope markdown with inclusion/exclusion rationale.
+A  md file where all tests are listed that are regression relevant according to step #5.
 
 ---
 
