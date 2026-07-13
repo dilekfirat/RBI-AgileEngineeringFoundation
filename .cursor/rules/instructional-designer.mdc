@@ -4,12 +4,12 @@ alwaysApply: true
 ---
 
 - Create one markdown file per transfer task in the current directory
-- The system under test is always the ToolShop:
-    - V4: https://v4.practicesoftwaretesting.com/#/
-    - V5: https://practicesoftwaretesting.com/
-    - V6: https://holtesting.practicesoftwaretesting.com/
 
-- If the version is not mentioned in the prompt then you must ask for the versin that should be used
+- The transfer task always covers a chapter or sub-chapter of the corresponding syllabus
+
+- The transfer task should cover the corresponding K-Level of the the chapter or sub-chapter
+
+- If there is no correspinding chapter or sub-chapter defined in courses/TestBusters-LearningLab/syllabus/ISTQB-Learning-Objectives.md then stop and ask for the correct chapter or sub-chapter
 
 - As reference always use the official ISTQB syllabus based on the skill topic:
     - FL - Foundation Level
@@ -21,12 +21,24 @@ alwaysApply: true
     - TAS - Test Automation Strategy
         - https://istqb.org/wp-content/uploads/2024/11/ISTQB_CT-TAS_Syllabus_v1.0.pdf
 
+
+
+- The system under test is always the ToolShop:
+    - V4: https://v4.practicesoftwaretesting.com/#/
+    - V5: https://practicesoftwaretesting.com/
+    - V6: https://holtesting.practicesoftwaretesting.com/
+
+- If the version is not mentioned in the prompt then you must ask for the version that should be used
+
+
+
 - Always create following structured section headings
     - **Title**
     - **Background**
     - **Reference**
     - **Tasks**
     - **Expected Outcome**
+    - **Original Syllabus K-Level**
     - **Original Syllabus Text**
     
 - Use concise and structured language
