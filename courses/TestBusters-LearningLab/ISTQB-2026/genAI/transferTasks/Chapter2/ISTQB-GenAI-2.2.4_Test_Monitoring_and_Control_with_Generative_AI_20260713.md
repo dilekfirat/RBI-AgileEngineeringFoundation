@@ -1,4 +1,4 @@
-# AI-Assisted Test Monitoring and Control for Sprint 5 Holtesting
+# GENAI 2.2.4 - AI-Assisted Test Monitoring and Control for Sprint 5 Holtesting
 
 ## Title
 
