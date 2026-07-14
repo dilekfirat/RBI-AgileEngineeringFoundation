@@ -8,7 +8,7 @@ Differentiate Testware on ToolShop Holtesting V6
 
 The Scrum team is testing the Sprint 6 increment on **ToolShop Holtesting V6** ([https://holtesting.practicesoftwaretesting.com/](https://holtesting.practicesoftwaretesting.com/)). The release adds PayU payment, delivery-cost rules, and Czech-language support to the checkout flow.
 
-During a test-process review, the test lead asks you to **differentiate testware** — the work products created by each test activity (section 1.4.1). Several artifacts already exist in the team wiki, but labels are inconsistent. Your job is to classify each artifact to the **test activity that produces it**, not to the feature it covers.
+Before sprint testing starts, the test lead asks you to map **testware** to the **test activities** that produce it (section 1.4.1). The team wiki mixes planning documents, scripts, and reports without clear labels. Your job is to differentiate testware by naming **one representative artifact per test activity** for this checkout scope — using syllabus terms only, not team nicknames.
 
 ## Reference
 
@@ -21,43 +21,28 @@ During a test-process review, the test lead asks you to **differentiate testware
 ## Tasks
 
 1. Open ToolShop Holtesting V6, add one product to the cart, and navigate to checkout. Skim the PayU payment step and note **one observable behavior** you would cover in this sprint (for example: order-total calculation, delivery-cost display, or Czech-language labels).
-2. Classify each testware item below into **exactly one** test-activity category from section 1.4.3. Use the syllabus category names only:
+2. For **each test activity** listed below, select **exactly one** testware type from section 1.4.3 that belongs to that activity. Use the official syllabus names (for example: *test plan* for test planning, *test cases* for test design). Do not reuse the same testware type for two different activities.
 
-   - Test planning
-   - Test monitoring and test control
-   - Test analysis
-   - Test design
-   - Test implementation
-   - Test execution
-   - Test completion
-
-   Write one short rationale per row.
+   Complete the table with one short sentence per row explaining how that artifact would apply to your checkout behavior from task 1.
 
 
-| # | Testware item from the ToolShop V6 sprint | Test activity (1.4.3 category) | Rationale |
-| - | ----------------------------------------- | ------------------------------ | --------- |
-| A | Sprint test plan listing checkout scope, entry criteria, and exit criteria for PayU | | |
-| B | Risk register with likelihood and impact for PayU sandbox downtime | | |
-| C | Prioritized test conditions derived from the PayU user-story acceptance criteria | | |
-| D | Defect report noting a wrong VAT rate in the checkout user story (test basis defect) | | |
-| E | Eight checkout test cases covering PayU success, cancel, and timeout paths | | |
-| F | Document listing required test data: valid card numbers, expired cards, and empty-cart edge cases | | |
-| G | Playwright script that automates guest checkout through PayU | | |
-| H | WireMock stub simulating PayU gateway responses for offline testing | | |
-| I | Daily test progress report e-mailed to the Scrum Master | | |
-| J | Test log recording three passed and one failed PayU checkout run from last night's pipeline | | |
-| K | Jira defect report for wrong delivery cost shown on the cart page | | |
-| L | Sprint test completion report summarizing coverage and residual risk | | |
-| M | Lessons-learned note: "PayU sandbox credentials expire weekly — rotate before regression" | | |
+| Test activity (1.4.1) | Testware artifact (1.4.3 syllabus term) | How it applies to ToolShop V6 checkout |
+| --------------------- | --------------------------------------- | -------------------------------------- |
+| Test planning | | |
+| Test monitoring and test control | | |
+| Test analysis | | |
+| Test design | | |
+| Test implementation | | |
+| Test execution | | |
+| Test completion | | |
 
 3. Write **two distinguishing sentences** (one sentence each):
-   - Explain how items **C** and **E** differ, even though both relate to PayU checkout coverage.
-   - Explain how items **D** and **K** differ, even though both are defect reports.
-4. Item **H** (WireMock stub) is classified under test implementation. Name **one other testware type** from section 1.4.3 that also belongs to test implementation and would support the same PayU checkout flow. One short phrase is enough.
+   - Explain why your **test analysis** artifact differs from your **test design** artifact, even though both relate to the same checkout behavior.
+   - Explain why a **defect report regarding a defect in the test basis** (test analysis) differs from a **defect report** produced during test execution, even though both are called defect reports.
 
 ## Expected Outcome
 
-The completed classification table (task 2, all thirteen rows), two one-sentence distinctions (task 3), and one additional test-implementation testware type (task 4).
+One completed table with **seven rows** — exactly **one testware artifact per test activity** (for example: test planning → test plan; test design → test cases; test execution → test log) — plus two one-sentence distinctions (task 3).
 
 ## Original Syllabus K-Level
 
