@@ -2,8 +2,7 @@
 
 ## Was ist ein Agentic Workflow?
 
-Ein Agentic Workflow ist ein strukturierter Prozess, in dem mehrere spezialisierte KI-Agenten
-zusammenarbeiten, um eine Aufgabe zu lösen. Im Gegensatz zu einem einzelnen Prompt wird die
+Ein Agentic Workflow ist ein strukturierter Prozess, in dem mehrere spezialisierte KI-Agenten zusammenarbeiten, um eine Aufgabe zu lösen. Im Gegensatz zu einem einzelnen Prompt wird die
 Arbeit in klar definierte Schritte, Rollen und Übergaben aufgeteilt.
 
 Ein Agentic Workflow besteht aus:
@@ -195,7 +194,6 @@ Typische Freigaben:
 
 ## Fazit
 
-Ein Agentic Workflow ersetzt keinen klassischen Prozess, sondern unterstützt ihn durch
-zusammenarbeitende KI-Agenten. Die Qualität entsteht nicht durch ein besonders leistungsfähiges
+Ein Agentic Workflow ersetzt keinen klassischen Prozess, sondern unterstützt ihn durch zusammenarbeitende KI-Agenten. Die Qualität entsteht nicht durch ein besonders leistungsfähiges
 LLM, sondern durch klar definierte Rollen, standardisierte Übergaben, gemeinsame Wissensquellen
 und systematische Qualitätskontrollen.

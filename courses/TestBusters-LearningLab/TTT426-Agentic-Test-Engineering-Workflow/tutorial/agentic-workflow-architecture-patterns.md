@@ -2,8 +2,7 @@
 
 ## Ziel dieses Dokuments
 
-Dieses Dokument beschreibt bewährte Architekturmuster für Agentic Workflows. Es dient als
-konzeptionelle Grundlage für den TTT426 Agentic Test Engineering Workflow.
+Dieses Dokument beschreibt bewährte Architekturmuster für Agentic Workflows. Es dient als konzeptionelle Grundlage für den TTT426 Agentic Test Engineering Workflow.
 
 ---
 

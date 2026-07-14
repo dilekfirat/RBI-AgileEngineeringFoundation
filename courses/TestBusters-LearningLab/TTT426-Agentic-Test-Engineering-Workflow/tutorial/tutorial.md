@@ -25,9 +25,7 @@ Der Workflow soll nicht nur einzelne Prompts ausführen. Er soll:
 - Annahmen und offene Fragen transparent dokumentieren,
 - und später um zusätzliche Agenten und Tools erweitert werden können.
 
-Das Konzept ist von BMAD inspiriert. BMAD arbeitet mit spezialisierten Agenten,
-geführten Workflows und schrittweise aufgebautem Projektkontext. Die Ausgaben
-einer Phase bilden dabei den Kontext für die nächste Phase.
+Das Konzept ist von BMAD inspiriert. BMAD arbeitet mit spezialisierten Agenten, geführten Workflows und schrittweise aufgebautem Projektkontext. Die Ausgaben einer Phase bilden dabei den Kontext für die nächste Phase.
 
 Der TTT426 Workflow überträgt dieses Prinzip auf den Softwaretestprozess.
 
@@ -68,11 +66,9 @@ Test Completion
 Quality Gate und menschliche Freigabe
 ```
 
-Jeder Schritt wird von einem spezialisierten Agenten oder einem definierten
-Workflow ausgeführt.
+Jeder Schritt wird von einem spezialisierten Agenten oder einem definierten Workflow ausgeführt.
 
-Der Workflow wird nicht sofort vollständig implementiert. Du entwickelst zuerst
-einen kleinen, überprüfbaren MVP und erweiterst ihn anschließend.
+Der Workflow wird nicht sofort vollständig implementiert. Du entwickelst zuerst einen kleinen, überprüfbaren MVP und erweiterst ihn anschließend.
 
 ---
 
@@ -80,8 +76,7 @@ einen kleinen, überprüfbaren MVP und erweiterst ihn anschließend.
 
 ## 3. Die fünf Bausteine des Workflows
 
-Der TTT426 Agentic Test Engineering Workflow besteht aus fünf zentralen
-Bausteinen.
+Der TTT426 Agentic Test Engineering Workflow besteht aus fünf zentralen Bausteinen.
 
 ### 3.1 Agents
 
@@ -123,8 +118,7 @@ Beispiele:
 - Test Automation Design
 - Test Summary Reporting
 
-Ein Skill sollte möglichst unabhängig von einem bestimmten Agenten sein.
-Mehrere Agenten können denselben Skill verwenden.
+Ein Skill sollte möglichst unabhängig von einem bestimmten Agenten sein. Mehrere Agenten können denselben Skill verwenden.
 
 ### 3.3 Workflows
 
@@ -159,8 +153,7 @@ Beispiele:
 
 ### 3.5 Quality Gates
 
-Quality Gates prüfen, ob ein Ergebnis vollständig und ausreichend ist, bevor
-der nächste Schritt beginnt.
+Quality Gates prüfen, ob ein Ergebnis vollständig und ausreichend ist, bevor der nächste Schritt beginnt.
 
 Beispiele:
 
@@ -179,23 +172,19 @@ Lege vor der Implementierung verbindliche Prinzipien fest.
 
 ### Prinzip 1: Artifact First
 
-Agenten sollen Ergebnisse nicht nur im Chat ausgeben. Relevante Ergebnisse
-werden als Dateien gespeichert.
+Agenten sollen Ergebnisse nicht nur im Chat ausgeben. Relevante Ergebnisse werden als Dateien gespeichert.
 
 ### Prinzip 2: Context is Versioned
 
-Projektwissen, Entscheidungen und Regeln liegen im Repository und werden über
-Git versioniert.
+Projektwissen, Entscheidungen und Regeln liegen im Repository und werden über Git versioniert.
 
 ### Prinzip 3: No Silent Assumptions
 
-Ein Agent darf notwendige Annahmen treffen, muss diese aber kennzeichnen und im
-Artefakt dokumentieren.
+Ein Agent darf notwendige Annahmen treffen, muss diese aber kennzeichnen und im Artefakt dokumentieren.
 
 ### Prinzip 4: Human Accountability
 
-Ein Agent darf Vorschläge erzeugen und Prüfungen durchführen. Die fachliche
-Verantwortung bleibt bei einer benannten Person.
+Ein Agent darf Vorschläge erzeugen und Prüfungen durchführen. Die fachliche Verantwortung bleibt bei einer benannten Person.
 
 ### Prinzip 5: Separation of Duties
 
@@ -203,18 +192,15 @@ Ein erzeugendes Ergebnis wird möglichst von einem anderen Agenten geprüft.
 
 ### Prinzip 6: Traceability by Design
 
-Anforderungen, Risiken, Testbedingungen, Testfälle, Ausführungen und Defects
-sollen nachvollziehbar miteinander verbunden werden.
+Anforderungen, Risiken, Testbedingungen, Testfälle, Ausführungen und Defects sollen nachvollziehbar miteinander verbunden werden.
 
 ### Prinzip 7: Small Context Packages
 
-Ein Agent erhält nur den Kontext, den er für seine Aufgabe benötigt. Das
-reduziert Ablenkung und widersprüchliche Anweisungen.
+Ein Agent erhält nur den Kontext, den er für seine Aufgabe benötigt. Das reduziert Ablenkung und widersprüchliche Anweisungen.
 
 ### Prinzip 8: Stop on Critical Missing Information
 
-Wenn eine kritische Information fehlt, markiert der Agent den Workflow als
-blockiert. Er erfindet keine Anforderungen.
+Wenn eine kritische Information fehlt, markiert der Agent den Workflow als blockiert. Er erfindet keine Anforderungen.
 
 ---
 
@@ -248,8 +234,7 @@ Inhalt:
 # TTT426 Agentic Test Engineering
 
 This repository contains the agents, skills, workflows, templates,
-quality gates and project artifacts for the TTT426 Agentic Test Engineering
-Workflow.
+quality gates and project artifacts for the TTT426 Agentic Test Engineering Workflow.
 ```
 
 Committe den Startpunkt:
