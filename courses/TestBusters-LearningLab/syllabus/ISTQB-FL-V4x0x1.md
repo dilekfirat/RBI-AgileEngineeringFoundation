@@ -1,51 +1,25 @@
 # Certified Tester – Foundation Level Syllabus
 
-      Foundation Level Syllabus
+```
+  Foundation Level Syllabus
 
-                      v4.0.1
+                  v4.0.1
+```
 
 International Software Testing Qualifications Board
 
+```
+0. Introduction
+```
 
-    0. Introduction
+   0.1. Purpose of this Syllabus  
+This syllabus forms the basis for the International Software Testing Qualification at the Foundation Level.  
 
-   0.1. Purpose of this Syllabus
-This syllabus forms the basis for the International Software Testing Qualification at the Foundation Level.
-The ISTQB® provides this syllabus as follows:
-      1. To member boards, to translate into their local language and to accredit training providers.
-         Member boards may adapt the syllabus to their particular language needs and modify the
-         references to adapt to their local publications.
-      2. To certification bodies, to derive examination questions in their local language adapted to the
-         learning objectives for this syllabus.
-      3. To training providers, to produce courseware and determine appropriate teaching methods.
-      4. To certification candidates, to prepare for the certification exam (either as part of a training course
-         or independently).
-To the international software and systems engineering community, to advance the profession of software
-and systems testing, and as a basis for books and articles.
 
-    0.2. The Certified Tester Foundation Level in Software Testing
-The Foundation Level qualification is aimed at anyone involved in software testing. This includes people
-in roles such as testers, test analysts, test engineers, test consultants, test managers, software
-developers and development team members. This Foundation Level qualification is also appropriate for
-anyone who wants a basic understanding of software testing, such as project managers, quality
-managers, product owners, software development managers, business analysts, IT directors and
-management consultants. Holders of the Foundation Certificate will be able to go on to higher-level
-software testing qualifications.
+```
+0.4. Business Outcomes
+```
 
-    0.3. Career Path for Testers
-The ISTQB® scheme provides support for testing professionals at all stages of their careers offering both
-breadth and depth of knowledge. Individuals who achieved the ISTQB® Foundation certification may also
-be interested in the Core Advanced Levels (Test Analyst, Technical Test Analyst, and Test Manager) and
-thereafter Expert Level (Test Management or Improving the Test Process). Anyone seeking to develop
-skills in testing practices in an Agile software development could consider the Agile Technical Tester or
-Agile Test Leadership at Scale certifications. The Specialist stream offers a deep dive into areas that
-have specific test approaches and test activities (e.g., in test automation, AI testing, model-based testing,
-mobile app testing), that are related to specific test areas (e.g., performance testing, usability testing,
-acceptance testing, security testing), or which cluster testing know-how for certain industry domains (e.g.,
-automotive or gaming). Please visit www.istqb.org for the latest information on ISTQB´s Certified Tester
-Scheme.
-
-    0.4. Business Outcomes
 This section lists the 14 Business Outcomes expected of a person who has achieved the Foundation
 Level certification.
 A Foundation Level Certified Tester can…
@@ -65,47 +39,26 @@ FL-BO12                    Identify essential skills required for testing
 FL-BO13                    Understand the impact of risk on testing
 FL-BO14                    Effectively report on test progress and quality
 
-    0.5. Examinable Learning Objectives and Cognitive Level of Knowledge
-Learning objectives support business outcomes and are used to create the Certified Tester Foundation
-Level exams. In general, all contents of chapters 1-6 of this syllabus are examinable at a K1 level. That is,
-the candidate may be asked to recognize, remember, or recall a keyword or concept mentioned in any of
-the six chapters. The specific learning objectives levels are shown at the beginning of each chapter, and
-classified as follows:
-•     K1: Remember
-•     K2: Understand
-•     K3: Apply
-Further details and examples of learning objectives are given in Appendix A. All terms listed as keywords
-just below chapter headings shall be remembered (K1), even if not explicitly mentioned in the learning
-objectives.
+```
+0.5. Examinable Learning Objectives and Cognitive Level of Knowledge
+```
 
-    0.6. The Foundation Level Certificate Exam
-The Foundation Level Certificate exam is based on this syllabus. Answers to exam questions may require the
-use of material based on more than one section of this syllabus. All sections of the syllabus are examinable,
-except for the Introduction and Appendices. Standards and books are included as references (Chapter 7), but
-their content is not examinable, beyond what is summarized in the syllabus itself from such standards and
-books. Refer to the documents “Exam Structures and Rules” and “Exam Structure Tables”.
+Learning objectives support business outcomes and are used to create the Certified Tester Foundation Level exams. In general, all contents of chapters 1-6 of this syllabus are examinable at a K1 level. That is, the candidate may be asked to recognize, remember, or recall a keyword or concept mentioned in any of the six chapters. The specific learning objectives levels are shown at the beginning of each chapter, and classified as follows: 
 
-    0.7. Accreditation
-An ISTQB® Member Board may accredit training providers whose course material follows this syllabus.
-Training providers should obtain accreditation guidelines from the Member Board or body that performs
-the accreditation. An accredited course is recognized as conforming to this syllabus and is allowed to
-have an ISTQB® exam as part of the course. The accreditation guidelines for this syllabus follow the
-general Accreditation Guidelines published by the Processes Management and Compliance Working
-Group.
+•     K1: Remember 
 
-    0.8. Handling of Standards
-There are standards referenced in the Foundation Syllabus (e.g., IEEE or ISO standards). These references
-provide a framework (as in the references to ISO 25010 regarding quality characteristics) or to provide a source
-of additional information if desired by the reader. The standards documents are not intended for examination.
-Refer to chapter 7 for more information on standards.
+•     K2: Understand 
 
-    0.9. Staying Current
-The software industry changes rapidly. To deal with these changes and to provide the stakeholders with access
-to relevant and current information, the ISTQB working groups have created links on the www.istqb.org
-website, which refer to supporting documentation and changes to standards. This information is not examinable
-under the Foundation syllabus.
+•     K3: Apply Further details and examples of learning objectives are given in Appendix A. 
 
-    0.10.                  Level of Detail
+All terms listed as keywords just below chapter headings shall be remembered (K1), even if not explicitly mentioned in the learning objectives.
+
+
+
+```
+0.10.                  Level of Detail
+```
+
 The level of detail in this syllabus allows for internationally consistent courses and exams. To achieve this
 goal, the syllabus consists of:
 •     General instructional objectives describing the intention of the Foundation Level
@@ -119,7 +72,10 @@ level of detail to be covered in Foundation Level training courses. It focuses o
 techniques that can be applied to all software projects independent of the software development lifecycle
 (SDLC) employed.
 
-    0.11.                  How this Syllabus is Organized
+```
+0.11.                  How this Syllabus is Organized
+```
+
 There are six chapters with examinable content. The top-level heading for each chapter specifies the
 training time for the chapter. Timing is not provided below the chapter level. For accredited training
 courses, the syllabus requires a minimum of 1135 minutes (18 hours and 55 minutes) of instruction,
@@ -149,7 +105,10 @@ distributed across the six chapters as follows:
                     o      The student learns to classify tools and to understand the risks and benefits of test
                            automation.
 
-    1. Fundamentals of Testing – 180 minutes
+```
+1. Fundamentals of Testing – 180 minutes
+```
+
 Keywords
 coverage, debugging, defect, error, failure, quality, quality assurance, root cause, test analysis, test basis,
 test case, test completion, test condition, test control, test data, test design, test execution, test
@@ -182,7 +141,10 @@ FL-1.5.1                   (K2) Give examples of the generic skills required for
 FL-1.5.2                   (K1) Recall the advantages of the whole team approach
 FL-1.5.3                   (K2) Distinguish the benefits and drawbacks of independence of testing
 
-    1.1. What is Testing?
+```
+1.1. What is Testing?
+```
+
 Software systems are an integral part of our daily life. Most people have had experience with software
 that did not work as expected. Software that does not work correctly can lead to many problems,
 including loss of money, time or business reputation, and, in extreme cases, even injury or death.
@@ -206,7 +168,10 @@ activity, requiring the testers to have specialized knowledge, use analytical sk
 thinking and systems thinking (Myers 2011, Roman 2018).
 The ISO/IEC/IEEE 29119-1 standard provides further information about software testing concepts.
 
-          1.1.1.           Test Objectives
+```
+      1.1.1.           Test Objectives
+```
+
 The typical test objectives are:
       •      Evaluating work products such as requirements, user stories, designs, and code
       •      Causing failures and finding defects
@@ -222,7 +187,10 @@ Test objectives can vary, depending upon the context, which includes the work pr
 test level, risks, the software development lifecycle (SDLC) being followed, and factors related to the
 business context, e.g., corporate structure, competitive considerations, or time to market.
 
-          1.1.2.           Testing and Debugging
+```
+      1.1.2.           Testing and Debugging
+```
+
 Testing and debugging are separate activities. Testing can trigger failures that are caused by defects in
 the software (dynamic testing) or can directly find defects in the test object (static testing).
 When dynamic testing (see chapter 4) triggers a failure, debugging is concerned with finding causes of
@@ -239,14 +207,20 @@ When static testing identifies a defect, debugging is concerned with removing it
 reproduction or diagnosis, since static testing directly finds defects, and cannot cause failures (see
 chapter 3).
 
-    1.2. Why is Testing Necessary?
+```
+1.2. Why is Testing Necessary?
+```
+
 Testing, as a form of quality control, helps in achieving the agreed upon test objectives within the set
 scope, time, quality, and budget constraints. Testing’s contribution to success should not be restricted to
 the test team activities. Any stakeholder can use their testing skills to bring the project closer to success.
 Testing components, systems, and associated work products (e.g., documentation) helps to identify
 defects in software.
 
-          1.2.1.           Testing’s Contributions to Success
+```
+      1.2.1.           Testing’s Contributions to Success
+```
+
 Testing provides a cost-effective means of detecting defects. These defects can then be removed (by
 debugging – a non-testing activity), so testing indirectly contributes to higher quality test objects.
 Testing provides a means of directly evaluating the quality of a test object at various phases in the SDLC.
@@ -260,7 +234,10 @@ to the high costs and lack of availability of suitable users.
 Testing may also be required to meet contractual or legal requirements, or to comply with regulatory
 standards.
 
-          1.2.2.           Testing and Quality Assurance (QA)
+```
+      1.2.2.           Testing and Quality Assurance (QA)
+```
+
 While people often use the terms “testing” and “quality assurance” (QA) interchangeably, testing and QA
 are not the same.
 Testing is a product-oriented, corrective approach that focuses on those activities supporting the
@@ -273,7 +250,10 @@ on a project.
 Test results are used by QA and testing. In testing they are used to fix defects, while in QA they provide
 feedback on how well the development and test processes are performing.
 
-          1.2.3.           Errors, Defects, Failures, and Root Causes
+```
+      1.2.3.           Errors, Defects, Failures, and Root Causes
+```
+
 Human beings make errors (mistakes), which produce defects (faults, bugs), which in turn may result in
 failures. Humans make errors for various reasons, such as time pressure, complexity of work products,
 processes, infrastructure or interactions, or simply because they are tired or lack adequate training.
@@ -290,15 +270,21 @@ error). Root causes are identified through root cause analysis, which is typical
 occurs or a defect is identified. It is believed that further similar failures or defects can be prevented or
 their frequency reduced by addressing the root cause, such as by removing it.
 
-    1.3. Testing Principles
+```
+1.3. Testing Principles
+```
+
 A number of testing principles offering general guidelines applicable to all testing have been suggested
 over the years. This syllabus describes seven such principles.
+
 1. Testing shows the presence, not the absence of defects. Testing can show that defects are present
+
 in the test object, but cannot prove that there are no defects (Buxton 1970). Testing reduces the
 probability of defects remaining undiscovered in the test object, but even if no defects are found, testing
 cannot prove test object correctness.
 
-2. Exhaustive testing is impossible. Testing everything is not feasible except in trivial cases (Manna
+1. Exhaustive testing is impossible. Testing everything is not feasible except in trivial cases (Manna
+
 1978). Rather than attempting to test exhaustively, test techniques (see chapter 4), test case prioritization
 (see section 5.1.5), and risk-based testing (see section 5.2), should be used to focus test efforts.
 3. Early testing saves time and money. Defects that are removed early in the process will not cause
@@ -321,7 +307,10 @@ defects found could still produce a system that does not fulfill the users’ ne
 does not help in achieving the customer’s business goals, and that is inferior compared to other
 competing systems. In addition to verification, validation should also be carried out (Boehm 1981).
 
-    1.4. Test Activities, Testware and Test Roles
+```
+1.4. Test Activities, Testware and Test Roles
+```
+
 Testing is context dependent, but, at a high level, there are common sets of test activities without which
 testing is less likely to achieve test objectives. These sets of test activities form a test process. The test
 process can be tailored to a given situation based on various factors. Which test activities are included in
@@ -331,7 +320,10 @@ The following sections describe the general aspects of this test process in term
 tasks, the impact of context, testware, traceability between the test basis and testware, and testing roles.
 The ISO/IEC/IEEE 29119-2 standard provides further information about test processes.
 
-          1.4.1.           Test Activities and Tasks
+```
+      1.4.1.           Test Activities and Tasks
+```
+
 A test process usually consists of the main groups of activities described below. Although many of these
 activities may appear to follow a logical sequence, they are often implemented iteratively or in parallel.
 These testing activities usually need to be tailored to the system and the project.
@@ -369,7 +361,10 @@ teams. The test environment is shut down to an agreed state. The test activities
 lessons learned and improvements for future iterations, releases, or projects (see section 2.1.6). A test
 completion report is created and communicated to the stakeholders.
 
-          1.4.2.           Test Process in Context
+```
+      1.4.2.           Test Process in Context
+```
+
 Testing is not performed in isolation. Test activities are an integral part of the development processes
 carried out within an organization. Testing is also funded by stakeholders and its final goal is to help fulfill
 the stakeholders’ business needs. Therefore, the way the testing is carried out will depend on a number
@@ -381,13 +376,19 @@ of contextual factors including:
       •      Technical factors (type of software, product architecture, technology used, etc.)
       •      Project constraints (scope, time, budget, resources, etc.)
 
-      •      Organizational factors (organizational structure, existing policies, practices used, etc.)
-      •      Software development lifecycle (engineering practices, development methods, etc.)
-      •      Tools (availability, usability, compliance, etc.)
+```
+  •      Organizational factors (organizational structure, existing policies, practices used, etc.)
+  •      Software development lifecycle (engineering practices, development methods, etc.)
+  •      Tools (availability, usability, compliance, etc.)
+```
+
 These factors will have an impact on many test-related issues, including: test strategy, test techniques
 used, degree of test automation, required level of coverage, level of detail of testware, test reporting, etc.
 
-          1.4.3.           Testware
+```
+      1.4.3.           Testware
+```
+
 Testware is created as output work products from the test activities described in section 1.4.1. There is a
 significant variation in how different organizations produce, shape, name, organize and manage their
 work products. Proper configuration management (see section 5.4) ensures consistency and integrity of
@@ -411,7 +412,10 @@ work products. The following list of work products is not exhaustive:
              for improvement of subsequent projects or iterations, documented lessons learned, and change
              requests (e.g., as product backlog items).
 
-          1.4.4.           Traceability between the Test Basis and Testware
+```
+      1.4.4.           Traceability between the Test Basis and Testware
+```
+
 To implement effective test monitoring and test control, it is important to establish and maintain
 traceability throughout the test process between the test basis elements, testware associated with these
 elements (e.g., test conditions, risks, test cases), test results, and defects.
@@ -420,10 +424,13 @@ defined in the test basis. The coverage criteria can function as key performance
 activities that show to what extent the test objectives have been achieved (see section 1.1.1). For
 example:
 
-      •      Traceability of test cases to requirements can verify that the requirements are covered by test
-             cases.
-      •      Traceability of test results to risks can be used to evaluate the level of residual risk in a test
-             object.
+```
+  •      Traceability of test cases to requirements can verify that the requirements are covered by test
+         cases.
+  •      Traceability of test results to risks can be used to evaluate the level of residual risk in a test
+         object.
+```
+
 In addition to evaluating coverage, good traceability makes it possible to determine the impact of
 changes, facilitates audits, and helps meet IT governance criteria. Good traceability also makes test
 progress reports and test completion reports more easily understandable by including the status of test
@@ -431,7 +438,10 @@ basis elements. This can also assist in communicating the technical aspects of t
 an understandable manner. Traceability provides information to assess product quality, process
 capability, and project progress against business goals.
 
-          1.4.5.           Roles in Testing
+```
+      1.4.5.           Roles in Testing
+```
+
 In this syllabus, two principal roles in testing are covered: a test management role and a testing role. The
 activities and tasks assigned to these two roles depend on factors such as the project and product
 context, the skills of the people in the roles, and the organization.
@@ -448,24 +458,33 @@ Different people may take on these roles at different times. For example, the te
 be performed by a team leader, by a test manager, by a development manager, etc. It is also possible for
 one person to take on the roles of testing and test management at the same time.
 
-    1.5. Essential Skills and Good Practices in Testing
+```
+1.5. Essential Skills and Good Practices in Testing
+```
+
 Skill is the ability to do something well that comes from one’s knowledge, practice and aptitude. Good
 testers should possess some essential skills to do their job well. Good testers should be effective team
 players and should be able to perform testing on different levels of test independence.
 
-          1.5.1.           Generic Skills Required for Testing
+```
+      1.5.1.           Generic Skills Required for Testing
+```
+
 While being generic, the following skills are particularly relevant for testers:
       •      Testing knowledge (to increase effectiveness of testing, e.g., by using test techniques)
       •      Thoroughness, carefulness, curiosity, attention to details, being methodical (to identify defects,
              especially the ones that are difficult to find)
 
-      •      Good communication skills, active listening, being a team player (to interact effectively with all
-             stakeholders, to convey information to others, to be understood, and to report and discuss
-             defects)
-      •      Analytical thinking, critical thinking, creativity (to increase effectiveness of testing)
-      •      Technical knowledge (to increase efficiency of testing, e.g., by using appropriate test tools)
-      •      Domain knowledge (to be able to understand and to communicate with end users/business
-             representatives)
+```
+  •      Good communication skills, active listening, being a team player (to interact effectively with all
+         stakeholders, to convey information to others, to be understood, and to report and discuss
+         defects)
+  •      Analytical thinking, critical thinking, creativity (to increase effectiveness of testing)
+  •      Technical knowledge (to increase efficiency of testing, e.g., by using appropriate test tools)
+  •      Domain knowledge (to be able to understand and to communicate with end users/business
+         representatives)
+```
+
 Testers are often the bearers of bad news. It is a common human trait to blame the bearer of bad news.
 This makes communication skills crucial for testers. Communicating test results may be perceived as
 criticism of the product and of its author. Confirmation bias can make it difficult to accept information that
@@ -473,7 +492,10 @@ disagrees with currently held beliefs. Some people may perceive testing as a des
 though it contributes greatly to project success and product quality. To try to improve this view, information
 about defects and failures should be communicated in a constructive way.
 
-          1.5.2.           Whole Team Approach
+```
+      1.5.2.           Whole Team Approach
+```
+
 One of the important skills for a tester is the ability to work effectively in a team context and to contribute
 positively to the team goals. The whole team approach – a practice coming from Extreme Programming
 (see section 2.1) – builds upon this skill.
@@ -490,7 +512,10 @@ product.
 Depending on the context, the whole team approach may not always be appropriate. For instance, in
 some situations, such as safety-critical, a high level of test independence may be needed.
 
-          1.5.3.           Independence of Testing
+```
+      1.5.3.           Independence of Testing
+```
+
 A certain degree of independence makes the tester more effective at finding defects due to differences
 between the author’s and the tester’s cognitive biases (cf. Salman 1995). Independence is not, however,
 a replacement for familiarity, e.g., developers can efficiently find many defects in their own code.
@@ -510,8 +535,11 @@ team, which may lead to a lack of collaboration, communication problems, or an a
 with the development team. Developers may lose a sense of responsibility for quality. Independent
 testers may be seen as a bottleneck or be blamed for delays in release.
 
-    2. Testing Throughout the Software Development Lifecycle
-       – 130 minutes
+```
+2. Testing Throughout the Software Development Lifecycle
+   – 130 minutes
+```
+
 Keywords
 acceptance testing, black-box testing, component integration testing, component testing, confirmation
 testing, functional testing, integration testing, maintenance testing, non-functional testing, regression
@@ -536,7 +564,10 @@ FL-2.2.3            (K2) Distinguish confirmation testing from regression testin
 2.3 Maintenance Testing
 FL-2.3.1            (K2) Summarize maintenance testing and its triggers
 
-    2.1. Testing in the Context of a Software Development Lifecycle (SDLC)
+```
+2.1. Testing in the Context of a Software Development Lifecycle (SDLC)
+```
+
 An SDLC model is an abstract, high-level representation of the software development process. An SDLC
 model defines how different development phases and types of activities performed within this process
 relate to each other, both logically and chronologically. Examples of SDLC models include: sequential
@@ -547,7 +578,10 @@ development methods and Agile practices. Examples include: acceptance test-drive
 (ATDD), behavior-driven development (BDD), domain-driven design (DDD), extreme programming (XP),
 feature-driven development (FDD), Kanban, Lean IT, Scrum, and test-driven development (TDD).
 
-          2.1.1.           Impact of the Software Development Lifecycle on Testing
+```
+      2.1.1.           Impact of the Software Development Lifecycle on Testing
+```
+
 Testing must be adapted to the SDLC to succeed. The choice of the SDLC impacts on the:
       •      Scope and timing of test activities (e.g., test levels and test types)
       •      Level of detail of test documentation
@@ -566,19 +600,25 @@ lightweight work product documentation and extensive test automation to make reg
 are favored in agile projects. Also, most of the manual testing tends to be done using experience-based
 test techniques (see Section 4.4) that do not require extensive prior test analysis and design.
 
-          2.1.2.           Software Development Lifecycle and Good Testing Practices
+```
+      2.1.2.           Software Development Lifecycle and Good Testing Practices
+```
+
 Good testing practices, independent of the chosen SDLC model, include the following:
       •      For every software development activity, there is a corresponding test activity, so that all
              development activities are subject to quality control
       •      Different test levels (see chapter 2.2.1) have specific and different test objectives, which allows
              for testing to be appropriately comprehensive while avoiding redundancy
 
-      •      Test analysis and design for a given test level begins during the corresponding development
-             phase of the SDLC, so that testing can adhere to the principle of early testing (see section 1.3)
-      •      Testers are involved in reviewing work products as soon as drafts of these work products are
-             available, so that this earlier testing and defect detection can support shift left (see section 2.1.5).
+```
+  •      Test analysis and design for a given test level begins during the corresponding development
+         phase of the SDLC, so that testing can adhere to the principle of early testing (see section 1.3)
+  •      Testers are involved in reviewing work products as soon as drafts of these work products are
+         available, so that this earlier testing and defect detection can support shift left (see section 2.1.5).
 
-          2.1.3.           Testing as a Driver for Software Development
+      2.1.3.           Testing as a Driver for Software Development
+```
+
 TDD, ATDD and BDD are similar development approaches, where tests are defined as a means of
 directing development. Each of these approaches implements the principle of early testing (see section
 1.3) and follows shift left (see section 2.1.5), since the tests are defined before the code is written. They
@@ -598,7 +638,10 @@ Behavior-Driven Development (BDD):
 For all the above approaches, tests may persist as automated tests to ensure the code quality in future
 adaptions / refactoring.
 
-          2.1.4.           DevOps and Testing
+```
+      2.1.4.           DevOps and Testing
+```
+
 DevOps is an organizational approach aiming to create synergy by getting development (including
 testing) and operations to work together to achieve a set of common goals. DevOps requires a cultural
 shift within an organization to bridge the gaps between development (including testing) and operations
@@ -611,12 +654,15 @@ From the testing perspective, some of the benefits of DevOps are as follows:
       •      CI promotes shift left in testing (see section 2.1.5) by encouraging developers to submit high
              quality code accompanied by component tests and static analysis
 
-      •      Automated processes are promoted like CI/CD that facilitates establishing stable test
-             environments
-      •      The visibility on non-functional quality characteristics increases (e.g., performance efficiency,
-             reliability)
-      •      Automation through a delivery pipeline reduces the need for repetitive manual testing
-      •      The risk of regression is minimized due to the scale and range of automated regression tests
+```
+  •      Automated processes are promoted like CI/CD that facilitates establishing stable test
+         environments
+  •      The visibility on non-functional quality characteristics increases (e.g., performance efficiency,
+         reliability)
+  •      Automation through a delivery pipeline reduces the need for repetitive manual testing
+  •      The risk of regression is minimized due to the scale and range of automated regression tests
+```
+
 DevOps is not without its risks and challenges, which include:
       •      The DevOps delivery pipeline must be defined and established
       •      CI / CD tools must be introduced and maintained
@@ -624,7 +670,10 @@ DevOps is not without its risks and challenges, which include:
 Although DevOps comes with a high level of automated testing, manual testing – especially from the
 user's perspective – will still be needed.
 
-          2.1.5.           Shift Left
+```
+      2.1.5.           Shift Left
+```
+
 The principle of early testing (see section 1.3) is sometimes referred to as shift left because it is an
 approach where testing is performed earlier in the SDLC. Shift left basically suggests that testing should
 be done earlier (e.g., not waiting for code to be implemented or for components to be integrated), but it
@@ -646,7 +695,10 @@ Shift left might result in extra training, effort and/or costs earlier in the pr
 efforts and/or costs later in the process.
 For shift left it is important that stakeholders are convinced and bought into this concept.
 
-          2.1.6.           Retrospectives and Process Improvement
+```
+      2.1.6.           Retrospectives and Process Improvement
+```
+
 Retrospectives are often held at the end of a project or an iteration, at a release milestone, or can be held
 when needed. The timing and organization of the retrospectives depend on the particular SDLC model
 being followed. In these meetings the participants (not only testers, but also e.g., developers, architects,
@@ -668,7 +720,10 @@ Typical benefits for testing include:
       •      Better cooperation between development and testing (e.g., as collaboration is reviewed and
              optimized regularly)
 
-    2.2. Test Levels and Test Types
+```
+2.2. Test Levels and Test Types
+```
+
 Test levels are groups of test activities that are organized and managed together. Each test level is an
 instance of the test process, performed in relation to software at a given phase of development, from
 individual components to complete systems or, where applicable, systems of systems.
@@ -679,29 +734,35 @@ levels may overlap in time.
 Test types are groups of test activities related to specific quality characteristics and most of those test
 activities can be performed at every test level.
 
-          2.2.1.           Test Levels
+```
+      2.2.1.           Test Levels
+```
+
 In this syllabus, the following five test levels are described:
 
-      •      Component testing (also known as unit testing) focuses on testing components in isolation. It
-             often requires specific support, such as test harnesses or unit test frameworks. Component
-             testing is normally performed by developers in their development environments.
-      •      Component integration testing (also known as unit integration testing) focuses on testing the
-             interfaces and interactions between components. Component integration testing is heavily
-             dependent on the integration strategy like bottom-up, top-down or big-bang.
-      •      System testing focuses on the overall behavior and capabilities of an entire system or product,
-             often including functional testing of end-to-end tasks and the non-functional testing of quality
-             characteristics. For some non-functional quality characteristics, it is preferable to test them on a
-             complete system in a representative test environment (e.g., usability). Using simulations of sub-
-             systems is also possible. System testing may be performed by an independent test team, and is
-             related to specifications for the system.
-      •      System integration testing focuses on testing the interfaces of the system under test and other
-             systems and external services. System integration testing requires suitable test environments
-             preferably similar to the operational environment.
-      •      Acceptance testing focuses on validation and on demonstrating readiness for deployment,
-             which means that the system fulfills the user’s business needs. Ideally, acceptance testing should
-             be performed by the intended users. The main forms of acceptance testing are: user acceptance
-             testing (UAT), operational acceptance testing, contractual acceptance testing and regulatory
-             acceptance testing, alpha testing and beta testing.
+```
+  •      Component testing (also known as unit testing) focuses on testing components in isolation. It
+         often requires specific support, such as test harnesses or unit test frameworks. Component
+         testing is normally performed by developers in their development environments.
+  •      Component integration testing (also known as unit integration testing) focuses on testing the
+         interfaces and interactions between components. Component integration testing is heavily
+         dependent on the integration strategy like bottom-up, top-down or big-bang.
+  •      System testing focuses on the overall behavior and capabilities of an entire system or product,
+         often including functional testing of end-to-end tasks and the non-functional testing of quality
+         characteristics. For some non-functional quality characteristics, it is preferable to test them on a
+         complete system in a representative test environment (e.g., usability). Using simulations of sub-
+         systems is also possible. System testing may be performed by an independent test team, and is
+         related to specifications for the system.
+  •      System integration testing focuses on testing the interfaces of the system under test and other
+         systems and external services. System integration testing requires suitable test environments
+         preferably similar to the operational environment.
+  •      Acceptance testing focuses on validation and on demonstrating readiness for deployment,
+         which means that the system fulfills the user’s business needs. Ideally, acceptance testing should
+         be performed by the intended users. The main forms of acceptance testing are: user acceptance
+         testing (UAT), operational acceptance testing, contractual acceptance testing and regulatory
+         acceptance testing, alpha testing and beta testing.
+```
+
 Test levels are distinguished by the following non-exhaustive list of attributes, to avoid overlapping of test
 activities:
       •      Test object
@@ -710,7 +771,10 @@ activities:
       •      Defects and failures
       •      Approach and responsibilities
 
-          2.2.2.           Test Types
+```
+      2.2.2.           Test Types
+```
+
 A lot of test types exist and can be applied in projects. In this syllabus, the following four test types are
 addressed:
 Functional testing evaluates the functions that a component or system should perform. The functions
@@ -721,14 +785,17 @@ system. Non-functional testing is the testing of “how well the system behaves�
 functional testing is checking the non-functional quality characteristics. The ISO/IEC 25010 standard
 provides the following classification of the non-functional quality characteristics:
 
-      •      Performance efficiency
-      •      Compatibility
-      •      Usability (also known as interaction capability)
-      •      Reliability
-      •      Security
-      •      Maintainability
-      •      Portability (also known as flexibility)
-      •      Safety
+```
+  •      Performance efficiency
+  •      Compatibility
+  •      Usability (also known as interaction capability)
+  •      Reliability
+  •      Security
+  •      Maintainability
+  •      Portability (also known as flexibility)
+  •      Safety
+```
+
 It is sometimes appropriate for non-functional testing to start early in the SDLC (e.g., as part of reviews or
 component testing). Many non-functional tests are derived from functional tests as they use the same
 functional tests, but check that while performing the function, a non-functional constraint is satisfied (e.g.,
@@ -746,7 +813,10 @@ All the four above mentioned test types can be applied to all test levels, altho
 different at each level. Different test techniques can be used to derive test conditions and test cases for
 all the mentioned test types.
 
-          2.2.3.           Confirmation Testing and Regression Testing
+```
+      2.2.3.           Confirmation Testing and Regression Testing
+```
+
 Changes are typically made to a component or system to either enhance it by adding a new feature or to
 fix it by removing a defect. Testing should then also include confirmation testing and regression testing.
 Confirmation testing confirms that an original defect has been successfully fixed. Depending on the risk,
@@ -771,7 +841,10 @@ regression tests on different test levels.
 Confirmation testing and/or regression testing for the test object are needed on all test levels if defects
 are fixed and/or changes are made on these test levels.
 
-    2.3. Maintenance Testing
+```
+2.3. Maintenance Testing
+```
+
 There are different categories of maintenance, it can be corrective, adaptive to changes in the
 environment or improve performance or maintainability (see ISO/IEC 14764 for details), so maintenance
 can involve planned releases/deployments and unplanned releases/deployments (hot fixes). Impact
@@ -795,7 +868,10 @@ The triggers for maintenance and maintenance testing can be classified as follow
              and retrieval procedures after archiving may also be needed in the event that certain data is
              required during the archiving period.
 
-    3. Static Testing – 80 minutes
+```
+3. Static Testing – 80 minutes
+```
+
 Keywords
 anomaly, dynamic testing, formal review, informal review, inspection, review, static analysis, static testing,
 technical review, walkthrough
@@ -814,7 +890,10 @@ FL-3.2.3            (K1) Recall which responsibilities are assigned to the princ
 FL-3.2.4            (K2) Compare and contrast the different review types
 FL-3.2.5            (K1) Recall the factors that contribute to a successful review
 
-    3.1. Static Testing Basics
+```
+3.1. Static Testing Basics
+```
+
 In contrast to dynamic testing, in static testing the software under test does not need to be executed.
 Code, process specification, system architecture specification or other work products are evaluated
 through manual examination (e.g., reviews) or with the help of a tool (e.g., static analysis). Test objectives
@@ -832,7 +911,10 @@ CI frameworks (see section 2.1.4). While largely used to detect specific code de
 also used to evaluate maintainability and security. Spelling checkers and readability tools are other
 examples of static analysis tools.
 
-          3.1.1.           Work Products Examinable by Static Testing
+```
+      3.1.1.           Work Products Examinable by Static Testing
+```
+
 Almost any work product can be examined using static testing. Examples include requirement
 specification documents, source code, test plans, test cases, product backlog items, test charters, project
 documentation, contracts and models.
@@ -843,7 +925,10 @@ Work products that are not appropriate for static testing include those that are
 human beings and that should not be analyzed by tools (e.g., 3rd party executable code due to legal
 reasons).
 
-          3.1.2.           Value of Static Testing
+```
+      3.1.2.           Value of Static Testing
+```
+
 Static testing can detect defects in the earliest phases of the SDLC, fulfilling the principle of early testing
 (see section 1.3). It can also identify defects which cannot be detected by dynamic testing (e.g.,
 unreachable code, design patterns not implemented as desired, defects in non-executable work
@@ -861,7 +946,10 @@ the project.
 Certain code defects can be detected using static analysis more efficiently than in dynamic testing,
 usually resulting in both fewer code defects and a lower overall development effort.
 
-          3.1.3.           Differences between Static Testing and Dynamic Testing
+```
+      3.1.3.           Differences between Static Testing and Dynamic Testing
+```
+
 Static testing and dynamic testing practices complement each other. They have similar objectives, such
 as supporting the detection of defects in work products (see section 1.1.1), but there are also some
 differences, such as:
@@ -888,9 +976,12 @@ Typical defects that are easier and/or cheaper to find through static testing in
       •      Specific types of security vulnerabilities (e.g., buffer overflows)
       •      Gaps or inaccuracies in test basis coverage (e.g., missing tests for an acceptance criterion)
 
-    3.2. Feedback and Review Process
+```
+3.2. Feedback and Review Process
 
-          3.2.1.           Benefits of Early and Frequent Stakeholder Feedback
+      3.2.1.           Benefits of Early and Frequent Stakeholder Feedback
+```
+
 Early and frequent feedback allows for the early communication of potential quality problems. If there is
 little stakeholder involvement during the SDLC, the product being developed might not meet the
 stakeholder’s original or current vision. A failure to deliver what the stakeholder wants can result in costly
@@ -901,7 +992,10 @@ development team to improve their understanding of what they are building. It al
 those features that deliver the most value to the stakeholders and that have the most positive impact on
 identified risks.
 
-          3.2.2.           Review Process Activities
+```
+      3.2.2.           Review Process Activities
+```
+
 The ISO/IEC 20246 standard defines a generic review process that provides a structured but flexible
 framework from which a specific review process may be tailored to a particular situation. If the required
 review is more formal, then more of the tasks described for the different activities will be needed.
@@ -928,11 +1022,14 @@ The activities in the review process are:
              work product is and what follow-up actions are required. A follow-up review may be required to
              complete actions.
 
-      •      Fixing and reporting. For every defect, a defect report should be created so that corrective
-             actions can be followed up. Once the exit criteria are reached, the work product can be accepted.
-             The review results are reported.
+```
+  •      Fixing and reporting. For every defect, a defect report should be created so that corrective
+         actions can be followed up. Once the exit criteria are reached, the work product can be accepted.
+         The review results are reported.
 
-          3.2.3.           Roles and Responsibilities in Reviews
+      3.2.3.           Roles and Responsibilities in Reviews
+```
+
 Reviews involve various stakeholders, who may take on several roles. The principal roles and their
 responsibilities are:
       •      Manager – decides what is to be reviewed and provides resources, such as staff and time for the
@@ -949,7 +1046,10 @@ responsibilities are:
              and organizing when and where the review will take place
 Other, more detailed roles are possible, as described in the ISO/IEC 20246 standard.
 
-          3.2.4.           Review Types
+```
+      3.2.4.           Review Types
+```
+
 There exist many review types ranging from informal reviews to formal reviews. The required level of
 formality depends on factors such as the SDLC being followed, the maturity of the development process,
 the criticality and complexity of the work product being reviewed, legal or regulatory requirements, and
@@ -967,17 +1067,20 @@ Some commonly used review types are:
              anomalies. Reviewers might perform an individual review before the walkthrough, but this is not
              required.
 
-      •      Technical Review. A technical review is performed by technically qualified reviewers and led by
-             a moderator. The objectives of a technical review are to gain consensus and make decisions
-             regarding a technical problem, but also to detect anomalies, evaluate quality and build confidence
-             in the work product, generate new ideas, and to motivate and enable authors to improve.
-      •      Inspection. As inspections are the most formal type of review, they follow the complete generic
-             process (see section 3.2.2). The main objective is to find the maximum number of anomalies.
-             Other objectives are to evaluate quality, build confidence in the work product, and to motivate and
-             enable authors to improve. Metrics are collected and used to improve the SDLC, including the
-             inspection process. In inspections, the author cannot act as the review leader or scribe.
+```
+  •      Technical Review. A technical review is performed by technically qualified reviewers and led by
+         a moderator. The objectives of a technical review are to gain consensus and make decisions
+         regarding a technical problem, but also to detect anomalies, evaluate quality and build confidence
+         in the work product, generate new ideas, and to motivate and enable authors to improve.
+  •      Inspection. As inspections are the most formal type of review, they follow the complete generic
+         process (see section 3.2.2). The main objective is to find the maximum number of anomalies.
+         Other objectives are to evaluate quality, build confidence in the work product, and to motivate and
+         enable authors to improve. Metrics are collected and used to improve the SDLC, including the
+         inspection process. In inspections, the author cannot act as the review leader or scribe.
 
-          3.2.5.           Success Factors for Reviews
+      3.2.5.           Success Factors for Reviews
+```
+
 There are several factors that determine the success of reviews, which include:
       •      Defining clear objectives and measurable exit criteria. Evaluation of participants should never be
              an objective
@@ -993,7 +1096,10 @@ There are several factors that determine the success of reviews, which include:
       •      Providing adequate training for all participants so they know how to fulfil their role
       •      Facilitating meetings
 
-    4. Test Analysis and Design – 390 minutes
+```
+4. Test Analysis and Design – 390 minutes
+```
+
 Keywords
 acceptance criteria, acceptance test-driven development, black-box test technique, boundary value
 analysis, branch coverage, checklist-based testing, collaboration-based test approach, coverage,
@@ -1029,7 +1135,10 @@ FL-4.5.1            (K2) Explain how to write user stories in collaboration with
 FL-4.5.2            (K2) Classify the different options for writing acceptance criteria
 FL-4.5.3            (K3) Use acceptance test-driven development (ATDD) to derive test cases
 
-    4.1. Test Techniques Overview
+```
+4.1. Test Techniques Overview
+```
+
 Test techniques support the tester in test analysis (what to test) and in test design (how to test). Test
 techniques help to develop a relatively small, but sufficient, set of test cases in a systematic way. Test
 techniques also help the tester to define test conditions, identify coverage items, and identify test data
@@ -1050,14 +1159,20 @@ the tester’s skills. Experience-based test techniques can detect defects that 
 black-box test techniques and white-box test techniques. Hence, experience-based test techniques are
 complementary to the black-box test techniques and white-box test techniques.
 
-    4.2. Black-Box Test Techniques
+```
+4.2. Black-Box Test Techniques
+```
+
 Commonly used black-box test techniques discussed in the following sections are:
       •      Equivalence Partitioning
       •      Boundary Value Analysis
       •      Decision Table Testing
       •      State Transition Testing
 
-          4.2.1.           Equivalence Partitioning
+```
+      4.2.1.           Equivalence Partitioning
+```
+
 Equivalence Partitioning (EP) divides data into partitions (known as equivalence partitions) based on the
 expectation that all the elements of a given partition are to be processed in the same way by the test
 object. The theory behind this technique is that if a test case, that tests one value from an equivalence
@@ -1086,7 +1201,10 @@ criterion in the case of multiple sets of partitions is called Each Choice cover
 Choice coverage requires test cases to exercise each partition from each set of partitions at least once.
 Each Choice coverage does not take into account combinations of partitions.
 
-          4.2.2.           Boundary Value Analysis
+```
+      4.2.2.           Boundary Value Analysis
+```
+
 Boundary Value Analysis (BVA) is a test technique based on exercising the boundaries of equivalence
 partitions. Therefore, BVA can only be used for ordered partitions. The minimum and maximum values of
 a partition are its boundary values. In the case of BVA, if two elements belong to the same partition, all
@@ -1112,7 +1230,10 @@ example, if the decision “if (x ≤ 10) …” is incorrectly implemented as �
 from the 2-value BVA (x = 10, x = 11) can detect the defect. However, x = 9, derived from the 3-value
 BVA, is likely to detect it.
 
-          4.2.3.           Decision Table Testing
+```
+      4.2.3.           Decision Table Testing
+```
+
 Decision tables are used for testing the implementation of requirements that specify how different
 combinations of conditions result in different outcomes. Decision tables are an effective way of recording
 complex logic, such as business rules.
@@ -1141,7 +1262,10 @@ be time consuming, since the number of rules grows exponentially with the number
 a case, to reduce the number of rules that need to be exercised, a minimized decision table or a risk-
 based approach may be used.
 
-          4.2.4.           State Transition Testing
+```
+      4.2.4.           State Transition Testing
+```
+
 A state diagram models the behavior of a system by showing its possible states and valid state
 transitions. A transition is initiated by an event, which may be additionally qualified by a guard condition.
 The transitions are assumed to be instantaneous and may sometimes result in the software taking action.
@@ -1175,7 +1299,10 @@ Achieving full valid transitions coverage guarantees full all states coverage. A
 coverage guarantees both full all states coverage and full valid transitions coverage and should be a
 minimum requirement for mission and safety-critical software.
 
-    4.3. White-Box Test Techniques
+```
+4.3. White-Box Test Techniques
+```
+
 Because of their popularity and simplicity, this section focuses on two code-related white-box test
 techniques:
       •      Statement testing
@@ -1185,7 +1312,10 @@ or high-integrity environments to achieve more thorough code coverage. There are
 techniques used in higher test levels (e.g., API testing), or using coverage not related to code (e.g.,
 neuron coverage in neural network testing). These techniques are not discussed in this syllabus.
 
-          4.3.1.           Statement Testing and Statement Coverage
+```
+      4.3.1.           Statement Testing and Statement Coverage
+```
+
 In statement testing, the coverage items are executable statements. The aim is to design test cases that
 exercise statements in the code until an acceptable level of coverage is achieved. Coverage is measured
 as the number of statements exercised by the test cases divided by the total number of executable
@@ -1198,7 +1328,10 @@ dependent (e.g., a division by zero that only fails when a denominator is set to
 statement coverage does not ensure that all the decision logic has been tested as, for instance, it may not
 exercise all the branches (see chapter 4.3.2) in the code.
 
-          4.3.2.           Branch Testing and Branch Coverage
+```
+      4.3.2.           Branch Testing and Branch Coverage
+```
+
 A branch is a transfer of control between two nodes in the control flow graph, which shows the possible
 sequences in which source code statements are executed in the test object. Each transfer of control can
 be either unconditional (i.e., straight-line code) or conditional (i.e., a decision outcome).
@@ -1214,7 +1347,10 @@ detect defects requiring the execution of a specific path in a code.
 Branch coverage subsumes statement coverage. This means that any set of test cases achieving 100%
 branch coverage also achieves 100% statement coverage (but not vice versa).
 
-          4.3.3.           The Value of White-box Testing
+```
+      4.3.3.           The Value of White-box Testing
+```
+
 A fundamental strength that all white-box test techniques share is that the entire software implementation
 is taken into account during testing, which facilitates defect detection even when the software
 specification is vague, outdated or incomplete. A corresponding weakness is that if the software does not
@@ -1228,20 +1364,29 @@ coverage measures provide an objective measurement of coverage and the necessary
 allow additional tests to be generated to increase this coverage, and subsequently increase confidence in
 the code.
 
-    4.4. Experience-based Test Techniques
+```
+4.4. Experience-based Test Techniques
+```
+
 Commonly used experience-based test techniques discussed in the following sections are:
       •      Error guessing
       •      Exploratory testing
       •      Checklist-based testing
 
-          4.4.1.           Error Guessing
+```
+      4.4.1.           Error Guessing
+```
+
 Error guessing is a test technique used to anticipate the occurrence of errors, defects, and failures, based
 on the tester’s knowledge, including:
 
-      •      How the application has worked in the past
-      •      The types of errors the developers tend to make and the types of defects that result from these
-             errors
-      •      The types of failures that have occurred in other, similar applications
+```
+  •      How the application has worked in the past
+  •      The types of errors the developers tend to make and the types of defects that result from these
+         errors
+  •      The types of failures that have occurred in other, similar applications
+```
+
 In general, errors, defects and failures may be related to: input (e.g., correct input not accepted,
 parameters wrong or missing), output (e.g., wrong format, wrong result), logic (e.g., missing cases, wrong
 operator), computation (e.g., incorrect operand, wrong computation), interfaces (e.g., parameter
@@ -1253,7 +1398,10 @@ experience, defect and failure data, or from common knowledge about why software
 See (Whittaker 2002, Whittaker 2003, Andrews 2006) for more information on error guessing and fault
 attacks.
 
-          4.4.2.           Exploratory Testing
+```
+      4.4.2.           Exploratory Testing
+```
+
 In exploratory testing, tests are simultaneously designed, executed, and evaluated while the tester learns
 about the test object. The testing is used to learn more about the test object, to explore it more deeply
 with focused tests, and to create tests for untested areas.
@@ -1272,7 +1420,10 @@ and has a high degree of essential skills, like analytical skills, curiosity and
 Exploratory testing can incorporate the use of other test techniques (e.g., equivalence partitioning). More
 information about exploratory testing can be found in (Kaner 1999, Whittaker 2009, Hendrickson 2013).
 
-          4.4.3.           Checklist-Based Testing
+```
+      4.4.3.           Checklist-Based Testing
+```
+
 In checklist-based testing, a tester designs, implements, and executes tests to cover test conditions from
 a checklist. Checklists can be built based on experience, knowledge about what is important for the user,
 or an understanding of why and how software fails. Checklists should not contain items that can be
@@ -1291,12 +1442,18 @@ In the absence of detailed test cases, checklist-based testing can provide guide
 consistency for the testing. If the checklists are high-level, some variability in the actual testing is likely to
 occur, resulting in potentially greater coverage but less repeatability.
 
-    4.5. Collaboration-based Test Approaches
+```
+4.5. Collaboration-based Test Approaches
+```
+
 Each of the above-mentioned test techniques (see sections 4.2, 4.3, 4.4) has a particular objective with
 respect to defect detection. Collaboration-based approaches, on the other hand, focus also on defect
 avoidance by collaboration and communication.
 
-          4.5.1.           Collaborative User Story Writing
+```
+      4.5.1.           Collaborative User Story Writing
+```
+
 A user story represents a feature that will be valuable to either a user or purchaser of a system or
 software. User stories have three critical aspects (Jeffries 2000), called together the “3 C’s”:
       •      Card – the medium describing a user story (e.g., an index card, an entry in an electronic board)
@@ -1312,25 +1469,34 @@ Good user stories should be: Independent, Negotiable, Valuable, Estimable, Small
 not clear enough, or that it does not reflect something valuable to them, or that the stakeholder just needs
 help in testing (Wake 2003).
 
-          4.5.2.           Acceptance Criteria
+```
+      4.5.2.           Acceptance Criteria
+```
+
 Acceptance criteria for a user story are the conditions that an implementation of the user story must meet
 to be accepted by stakeholders. From this perspective, acceptance criteria may be viewed as the test
 conditions that should be exercised by the tests. Acceptance criteria are usually a result of the
 Conversation (see section 4.5.1).
 Acceptance criteria are used to:
 
-      •      Define the scope of the user story
-      •      Reach consensus among the stakeholders
-      •      Describe both positive and negative scenarios
-      •      Serve as a basis for the user story acceptance testing (see section 4.5.3)
-      •      Allow accurate planning and estimation
+```
+  •      Define the scope of the user story
+  •      Reach consensus among the stakeholders
+  •      Describe both positive and negative scenarios
+  •      Serve as a basis for the user story acceptance testing (see section 4.5.3)
+  •      Allow accurate planning and estimation
+```
+
 There are several ways to write acceptance criteria for a user story. The two most common formats are:
       •      Scenario-oriented (e.g., Given/When/Then format used in BDD, see section 2.1.3)
       •      Rule-oriented (e.g., bullet point verification list, or tabulated form of input-output mapping)
 Most acceptance criteria can be documented in one of these two formats. However, the team may use
 another, custom format, as long as the acceptance criteria are well-defined and unambiguous.
 
-          4.5.3.           Acceptance Test-driven Development (ATDD)
+```
+      4.5.3.           Acceptance Test-driven Development (ATDD)
+```
+
 ATDD is a test-first approach (see section 2.1.3). Test cases are created prior to implementing the user
 story. The test cases are created by team members with different perspectives, e.g., customers,
 developers, and testers (Adzic 2009). Test cases may be executed manually or automated.
@@ -1355,7 +1521,10 @@ When captured in a format supported by a test automation framework, the develope
 test cases by writing the supporting code as they implement the feature described by a user story. The
 acceptance tests then become executable requirements.
 
-    5. Managing the Test Activities – 335 minutes
+```
+5. Managing the Test Activities – 335 minutes
+```
+
 Keywords
 defect management, defect report, entry criteria, exit criteria, product risk, project risk, risk, risk analysis,
 risk assessment, risk control, risk identification, risk level, risk management, risk mitigation, risk
@@ -1390,9 +1559,12 @@ FL-5.4.1            (K2) Summarize how configuration management supports testing
 5.5 Defect Management
 FL-5.5.1            (K3) Prepare a defect report
 
-    5.1. Test Planning
+```
+5.1. Test Planning
 
-          5.1.1.           Purpose and Content of a Test Plan
+      5.1.1.           Purpose and Content of a Test Plan
+```
+
 A test plan describes the test objectives, resources and processes for a test project. A test plan:
       •      Documents the means and schedule for achieving test objectives
       •      Helps to ensure that the performed test activities will meet the established criteria
@@ -1414,7 +1586,10 @@ The typical content of a test plan includes:
       •      Budget and schedule
 More details about the test plan and its content can be found in the ISO/IEC/IEEE 29119-3 standard.
 
-          5.1.2.           Tester's Contribution to Iteration and Release Planning
+```
+      5.1.2.           Tester's Contribution to Iteration and Release Planning
+```
+
 In iterative SDLCs, typically two kinds of planning occur: release planning and iteration planning.
 Release planning looks ahead to the release of a product, defines and re-defines the product backlog,
 and may involve refining larger user stories into a set of smaller user stories. It also serves as the basis
@@ -1428,7 +1603,10 @@ Testers involved in iteration planning participate in the detailed risk analysis
 testability of user stories, break down user stories into tasks (particularly testing tasks), estimate test effort
 for all testing tasks, and identify and refine functional and non-functional aspects of the test object.
 
-          5.1.3.           Entry Criteria and Exit Criteria
+```
+      5.1.3.           Entry Criteria and Exit Criteria
+```
+
 Entry criteria define the preconditions for undertaking a given activity. If entry criteria are not met, it is
 likely that the activity will prove to be more difficult, time-consuming, costly, and riskier. Exit criteria define
 what must be achieved to declare an activity completed. Entry criteria and exit criteria should be defined
@@ -1447,7 +1625,10 @@ In Agile software development, exit criteria are often called Definition of Done
 objective metrics for a releasable item. Entry criteria that a user story must fulfill to start the development
 and/or testing activities are called Definition of Ready.
 
-          5.1.4.           Estimation Techniques
+```
+      5.1.4.           Estimation Techniques
+```
+
 Test effort estimation involves predicting the amount of test-related work needed to meet the test
 objectives of a test project. It is important to make it clear to the stakeholders that the estimate is based
 on a number of assumptions and is always subject to estimation error. Estimation for small tasks is
@@ -1483,7 +1664,10 @@ hours) are: a=6, m=9 and b=18, then the final estimation is 10±2 person-hours (
 person-hours), because E = (6 + 4*9 + 18) / 6 = 10 and SD = (18 – 6) / 6 = 2.
 See (Kan 2003, Koomen 2006, Westfall 2009) for these and many other test estimation techniques.
 
-          5.1.5.           Test Case Prioritization
+```
+      5.1.5.           Test Case Prioritization
+```
+
 Once the test cases and test procedures are specified and assembled into test suites, these test suites
 can be arranged in a test execution schedule that defines the order in which they are to be run. When
 prioritizing test cases, different factors can be taken into account. The most commonly used test case
@@ -1505,7 +1689,10 @@ with a lower priority, the lower priority test case must be executed first.
 The order of test execution must also take into account the availability of resources. For example, the
 required test tools, test environments or people that may only be available for a specific time window.
 
-          5.1.6.           Test Pyramid
+```
+      5.1.6.           Test Pyramid
+```
+
 The test pyramid is a model showing that different tests may have different granularity. The test pyramid
 model supports the team in test automation and in test effort allocation by showing that different test
 objectives are supported by different levels of test automation. The pyramid layers represent groups of
@@ -1521,7 +1708,10 @@ The number and naming of the layers may differ. For example, the original test p
 (component) tests, integration (component integration) tests, and end-to-end tests. Other test levels (see
 section 2.2.1) can also be used.
 
-          5.1.7.           Testing Quadrants
+```
+      5.1.7.           Testing Quadrants
+```
+
 The testing quadrants, defined by Brian Marick (Marick 2003, Crispin 2008), group the test levels with the
 appropriate test types, activities, test techniques and work products in the Agile software development.
 The model supports test management in visualizing these to ensure that all appropriate test types and
@@ -1541,7 +1731,10 @@ combination of these two viewpoints determines the four quadrants:
       •      Quadrant Q4 (technology facing, critique the product). This quadrant contains smoke tests and
              non-functional tests (except usability tests). These tests are often automated.
 
-    5.2. Risk Management
+```
+5.2. Risk Management
+```
+
 Organizations face many internal and external factors that make it uncertain whether and when they will
 achieve their objectives (ISO 31000). Risk management allows the organizations to increase the
 likelihood of achieving objectives, improve the quality of their products and increase the stakeholders’
@@ -1552,7 +1745,10 @@ The main risk management activities are:
 The test approach, in which test activities are selected, prioritized, and managed based on risk analysis
 and risk control, is called risk-based testing.
 
-          5.2.1.           Risk Definition and Risk Attributes
+```
+      5.2.1.           Risk Definition and Risk Attributes
+```
+
 Risk is a potential event, hazard, threat, or situation whose occurrence causes an adverse effect. A risk
 can be characterized by two factors:
       •      Risk likelihood – the probability of the risk occurrence (greater than zero and less than one)
@@ -1560,7 +1756,10 @@ can be characterized by two factors:
 These two factors express the risk level, which is a measure for the risk. The higher the risk level, the
 more important is its treatment.
 
-          5.2.2.           Project Risks and Product Risks
+```
+      5.2.2.           Project Risks and Product Risks
+```
+
 In software testing one is generally concerned with two types of risks: project risks and product risks.
 Project risks are related to the management and control of the project. Project risks include:
       •      Organizational issues (e.g., delays in work products deliveries, inaccurate estimates, cost cutting)
@@ -1580,7 +1779,10 @@ vulnerabilities. Product risks, when they occur, may result in various negative 
       •      Criminal penalties
       •      In extreme cases, physical damage, injuries or even death
 
-          5.2.3.           Product Risk Analysis
+```
+      5.2.3.           Product Risk Analysis
+```
+
 From a testing perspective, the goal of product risk analysis is to provide an awareness of product risk to
 focus the test effort in a way that minimizes the residual level of product risk. Ideally, product risk analysis
 begins early in the SDLC.
@@ -1602,7 +1804,10 @@ Product risk analysis may influence the thoroughness and test scope. Its results
       •      Prioritize testing in an attempt to find the critical defects as early as possible
       •      Determine whether any activities in addition to testing could be employed to reduce risk
 
-          5.2.4.           Product Risk Control
+```
+      5.2.4.           Product Risk Control
+```
+
 Product risk control comprises all measures that are taken in response to identified and assessed product
 risks. Product risk control consists of risk mitigation and risk monitoring. Risk mitigation involves
 implementing the actions proposed in risk assessment to reduce the risk level. The aim of risk monitoring
@@ -1618,7 +1823,10 @@ possible, e.g., risk mitigation by testing, risk acceptance, risk transfer, or a
       •      Apply the appropriate test types addressing the affected quality characteristics
       •      Perform dynamic testing, including regression testing
 
-    5.3. Test Monitoring, Test Control and Test Completion
+```
+5.3. Test Monitoring, Test Control and Test Completion
+```
+
 Test monitoring is concerned with gathering information about testing. This information is used to assess
 test progress and to measure whether the exit criteria or the test tasks associated with the exit criteria are
 satisfied, such as meeting the targets for coverage of product risks, requirements, or acceptance criteria.
@@ -1626,16 +1834,22 @@ Test control uses the information from test monitoring to provide, in a form of 
 guidance and the necessary corrective actions to achieve the most effective and efficient testing.
 Examples of control directives include:
 
-      •      Reprioritizing tests when an identified risk becomes an issue
-      •      Re-evaluating whether a test item meets entry criteria or exit criteria due to rework
-      •      Adjusting the test schedule to address a delay in the delivery of the test environment
-      •      Adding new resources when and where needed
+```
+  •      Reprioritizing tests when an identified risk becomes an issue
+  •      Re-evaluating whether a test item meets entry criteria or exit criteria due to rework
+  •      Adjusting the test schedule to address a delay in the delivery of the test environment
+  •      Adding new resources when and where needed
+```
+
 Test completion collects data from completed test activities to consolidate experience, testware, and any
 other relevant information. Test completion activities occur at project milestones such as when a test level
 is completed, an agile iteration is finished, a test project is completed (or cancelled), a software system is
 released, or a maintenance release is completed.
 
-          5.3.1.           Metrics used in Testing
+```
+      5.3.1.           Metrics used in Testing
+```
+
 Test metrics are gathered to show progress against the planned test schedule and budget, the current
 quality of the test object, and the effectiveness of the test activities with respect to the test objectives or
 an iteration goal. Test monitoring gathers a variety of metrics to support the test control and test
@@ -1651,7 +1865,10 @@ Common test metrics include:
       •      Coverage metrics (e.g., requirements coverage, code coverage)
       •      Cost metrics (e.g., cost of testing, organizational cost of quality)
 
-          5.3.2.           Purpose, Content and Audience for Test Reports
+```
+      5.3.2.           Purpose, Content and Audience for Test Reports
+```
+
 Test reporting summarizes and communicates test information during and after testing. Test progress
 reports support the ongoing test control and must provide enough information to make modifications to
 the test schedule, resources, or test plan, when such changes are needed due to deviation from the plan
@@ -1663,10 +1880,13 @@ etc.) and include:
       •      Testing period
       •      Test progress (e.g., ahead or behind schedule), including any notable deviations
 
-      •      Impediments for testing, and their workarounds
-      •      Test metrics (see section 5.3.1 for examples)
-      •      New and changed risks within testing period
-      •      Testing planned for the next period
+```
+  •      Impediments for testing, and their workarounds
+  •      Test metrics (see section 5.3.1 for examples)
+  •      New and changed risks within testing period
+  •      Testing planned for the next period
+```
+
 A test completion report is prepared during test completion, when a project, test level, or test type is
 complete and when, ideally, its exit criteria have been met. This report uses test progress reports and
 other data. Typical test completion reports include:
@@ -1685,7 +1905,10 @@ informal, while test completion reporting follows a set template and occurs only
 The ISO/IEC/IEEE 29119-3 standard includes templates and examples for test progress reports (called
 test status reports) and test completion reports.
 
-          5.3.3.           Communicating the Status of Testing
+```
+      5.3.3.           Communicating the Status of Testing
+```
+
 The best means of communicating test status varies, depending on test management concerns,
 organizational test strategies, regulatory standards, or, in the case of self-organizing teams (see section
 1.5.2), on the team itself. The options include:
@@ -1699,7 +1922,10 @@ distributed teams where direct face-to-face communication is not always possible
 distance or time differences. Typically, different stakeholders are interested in different types of
 information, so communication should be tailored accordingly.
 
-    5.4. Configuration Management
+```
+5.4. Configuration Management
+```
+
 In testing, configuration management (CM) provides a discipline for identifying, controlling, and tracking
 work products such as test plans, test strategies, test conditions, test cases, test scripts, test results, test
 logs, and test reports as configuration items.
@@ -1717,7 +1943,10 @@ Continuous integration, continuous delivery, continuous deployment and the assoc
 typically implemented as part of an automated DevOps pipeline (see section 2.1.4), in which automated
 CM is normally included.
 
-    5.5. Defect Management
+```
+5.5. Defect Management
+```
+
 Since one of the major test objectives is to find defects, an established defect management process is
 essential. Although we refer to "defects" here, the reported anomalies may turn out to be real defects or
 something else (e.g., false–positive result, change request) - this is resolved during the process of dealing
@@ -1736,24 +1965,30 @@ Typical defect reports have the following objectives:
 A defect report logged during dynamic testing typically includes:
       •      Unique identifier
 
-      •      Title with a short summary of the anomaly being reported
-      •      Date when the anomaly was observed, issuing organization, and author, including their role
-      •      Identification of the test object and test environment
-      •      Context of the defect (e.g., test case being run, test activity being performed, SDLC phase, and
-             other relevant information such as the test technique, checklist or test data being used)
-      •      Description of the failure to enable reproduction and resolution including the test steps that
-             detected the anomaly, and any relevant test logs, database dumps, screenshots, or recordings
-      •      Expected results and actual results
-      •      Severity of the defect (degree of impact) on the interests of stakeholders or requirements
-      •      Priority to fix
-      •      Status of the defect (e.g., open, deferred, duplicate, waiting to be fixed, awaiting confirmation
-             testing, re-opened, closed, rejected)
-      •      References (e.g., to the test case)
+```
+  •      Title with a short summary of the anomaly being reported
+  •      Date when the anomaly was observed, issuing organization, and author, including their role
+  •      Identification of the test object and test environment
+  •      Context of the defect (e.g., test case being run, test activity being performed, SDLC phase, and
+         other relevant information such as the test technique, checklist or test data being used)
+  •      Description of the failure to enable reproduction and resolution including the test steps that
+         detected the anomaly, and any relevant test logs, database dumps, screenshots, or recordings
+  •      Expected results and actual results
+  •      Severity of the defect (degree of impact) on the interests of stakeholders or requirements
+  •      Priority to fix
+  •      Status of the defect (e.g., open, deferred, duplicate, waiting to be fixed, awaiting confirmation
+         testing, re-opened, closed, rejected)
+  •      References (e.g., to the test case)
+```
+
 Some of this data may be automatically included when using defect management tools (e.g., identifier,
 date, author and initial status). Document templates for a defect report and example defect reports can be
 found in the ISO/IEC/IEEE 29119-3 standard, which refers to defect reports as incident reports.
 
-    6. Test Tools – 20 minutes
+```
+6. Test Tools – 20 minutes
+```
+
 Keywords
 test automation
 
@@ -1765,7 +2000,10 @@ FL-6.1.1            (K2) Explain how different types of test tools support testi
 6.2 Benefits and Risks of Test Automation
 FL-6.2.1            (K1) Recall the benefits and risks of test automation
 
-    6.1. Tool Support for Testing
+```
+6.1. Tool Support for Testing
+```
+
 Test tools support and facilitate many test activities. Examples include, but are not limited to:
       •      Test management tools – increase the test process efficiency by facilitating management of the
              SDLC, requirements, tests, defects, configuration
@@ -1783,7 +2021,10 @@ Test tools support and facilitate many test activities. Examples include, but ar
              containerization tools)
       •      Any other tool that assists in testing (e.g., a spreadsheet is a test tool in the context of testing)
 
-    6.2. Benefits and Risks of Test Automation
+```
+6.2. Benefits and Risks of Test Automation
+```
+
 Simply acquiring a tool does not guarantee success. Each new tool will require effort to achieve real and
 lasting benefits (e.g., for tool introduction, maintenance and training). There are also some risks, which
 need analysis and mitigation.
@@ -1801,7 +2042,10 @@ Potential benefits of using test automation include:
       •      Reduced test execution times to provide earlier defect detection, faster feedback and faster time
              to market
 
-      •      More time for testers to design new, deeper and more effective tests
+```
+  •      More time for testers to design new, deeper and more effective tests
+```
+
 Potential risks of using test automation include:
       •      Unrealistic expectations about the benefits of a tool (including functionality and ease of use).
       •      Inaccurate estimations of time, costs, effort required to introduce a tool, maintain test scripts and
@@ -1817,7 +2061,8 @@ Potential risks of using test automation include:
       •      Choosing an unsuitable tool that did not comply with the regulatory requirements and/or safety
              standards.
 
-7.           References
+1. References
+
 Standards
 ISO/IEC/IEEE 29119-1 (2022) Software and systems engineering – Software testing – Part 1: General
 Concepts
@@ -1896,17 +2141,18 @@ Enders, A. (1975) “An Analysis of Errors and Their Causes in System Programs,�
 Software Engineering 1(2), pp. 140-149
 Manna, Z., Waldinger, R. (1978) “The logic of computer programming,” IEEE Transactions on Software
 Engineering 4(3), pp. 199-229
-Marick, B. (2003) Exploration through Example, http://www.exampler.com/old-
+Marick, B. (2003) Exploration through Example, [http://www.exampler.com/old-](http://www.exampler.com/old-)
 blog/2003/08/21.1.html#agile-testing-project-1
 Nielsen, J. (1994) “Enhancing the explanatory power of usability heuristics,” Proceedings of the SIGCHI
 Conference on Human Factors in Computing Systems: Celebrating Interdependence, ACM Press, pp.
 152–158
 Salman. I. (2016) “Cognitive biases in software quality and testing,” Proceedings of the 38th International
 Conference on Software Engineering Companion (ICSE '16), ACM, pp. 823-826.
-Wake, B. (2003) “INVEST in Good Stories, and SMART Tasks,” https://xp123.com/articles/invest-in-good-
+Wake, B. (2003) “INVEST in Good Stories, and SMART Tasks,” [https://xp123.com/articles/invest-in-good-](https://xp123.com/articles/invest-in-good-)
 stories-and-smart-tasks/
 
-8. Appendix A – Learning Objectives/Cognitive Level of
+1. Appendix A – Learning Objectives/Cognitive Level of
+
 Knowledge
 The following learning objectives are defined as applying to this syllabus. Each topic in the syllabus will
 be examined according to the learning objective for it. The learning objectives begin with an action verb
@@ -1941,36 +2187,40 @@ References for the cognitive levels of learning objectives:
 Anderson, L. W. and Krathwohl, D. R. (eds) (2001) A Taxonomy for Learning, Teaching, and Assessing:
 A Revision of Bloom's Taxonomy of Educational Objectives, Allyn & Bacon
 
-9.           Appendix B – Business Outcomes traceability matrix with Learning Objectives
+1. Appendix B – Business Outcomes traceability matrix with Learning Objectives
+
 This section lists the number of Foundation Level Learning Objectives related to the Business Outcomes and the traceability between Foundation
 Level Business Outcomes and Foundation Level Learning Objectives.
 
-                                                                                                                                                                             FL-BO10
+```
+                                                                                                                                                                         FL-BO10
 
-                                                                                                                                                                                       FL-BO11
+                                                                                                                                                                                   FL-BO11
 
-                                                                                                                                                                                                 FL-BO12
+                                                                                                                                                                                             FL-BO12
 
-                                                                                                                                                                                                              FL-BO13
+                                                                                                                                                                                                          FL-BO13
 
-                                                                                                                                                                                                                        FL-BO14
-                                                                                            FL-BO1
+                                                                                                                                                                                                                    FL-BO14
+                                                                                        FL-BO1
 
-                                                                                                     FL-BO2
+                                                                                                 FL-BO2
 
-                                                                                                              FL-BO3
+                                                                                                          FL-BO3
 
-                                                                                                                       FL-BO4
+                                                                                                                   FL-BO4
 
-                                                                                                                                FL-BO5
+                                                                                                                            FL-BO5
 
-                                                                                                                                         FL-BO6
+                                                                                                                                     FL-BO6
 
-                                                                                                                                                  FL-BO7
+                                                                                                                                              FL-BO7
 
-                                                                                                                                                           FL-BO8
+                                                                                                                                                       FL-BO8
 
-                                                                                                                                                                    FL-BO9
+                                                                                                                                                                FL-BO9
+```
+
   Business Outcomes: Foundation Level
 
   BO1         Understand what testing is and why it is beneficial                            6
@@ -1996,32 +2246,35 @@ Chapter/                                                Learning objective      
 section/                                                                                         level
 subsection
 
-                                                                                                                                                                                           FL-BO10
+```
+                                                                                                                                                                                       FL-BO10
 
-                                                                                                                                                                                                     FL-BO11
+                                                                                                                                                                                                 FL-BO11
 
-                                                                                                                                                                                                                FL-BO12
+                                                                                                                                                                                                            FL-BO12
 
-                                                                                                                                                                                                                          FL-BO13
+                                                                                                                                                                                                                      FL-BO13
 
-                                                                                                                                                                                                                                    FL-BO14
-                                                                                                         FL-BO1
+                                                                                                                                                                                                                                FL-BO14
+                                                                                                     FL-BO1
 
-                                                                                                                  FL-BO2
+                                                                                                              FL-BO2
 
-                                                                                                                           FL-BO3
+                                                                                                                       FL-BO3
 
-                                                                                                                                    FL-BO4
+                                                                                                                                FL-BO4
 
-                                                                                                                                             FL-BO5
+                                                                                                                                         FL-BO5
 
-                                                                                                                                                       FL-BO6
+                                                                                                                                                   FL-BO6
 
-                                                                                                                                                                FL-BO7
+                                                                                                                                                            FL-BO7
 
-                                                                                                                                                                         FL-BO8
+                                                                                                                                                                     FL-BO8
 
-                                                                                                                                                                                  FL-BO9
+                                                                                                                                                                              FL-BO9
+```
+
 Chapter 1          Fundamentals of Testing
 
 1.1                What is Testing?
@@ -2058,32 +2311,35 @@ Chapter/                                                Learning objective      
 section/                                                                                              level
 subsection
 
-                                                                                                                                                                                                FL-BO10
+```
+                                                                                                                                                                                            FL-BO10
 
-                                                                                                                                                                                                          FL-BO11
+                                                                                                                                                                                                      FL-BO11
 
-                                                                                                                                                                                                                     FL-BO12
+                                                                                                                                                                                                                 FL-BO12
 
-                                                                                                                                                                                                                               FL-BO13
+                                                                                                                                                                                                                           FL-BO13
 
-                                                                                                                                                                                                                                         FL-BO14
-                                                                                                              FL-BO1
+                                                                                                                                                                                                                                     FL-BO14
+                                                                                                          FL-BO1
 
-                                                                                                                       FL-BO2
+                                                                                                                   FL-BO2
 
-                                                                                                                                FL-BO3
+                                                                                                                            FL-BO3
 
-                                                                                                                                         FL-BO4
+                                                                                                                                     FL-BO4
 
-                                                                                                                                                  FL-BO5
+                                                                                                                                              FL-BO5
 
-                                                                                                                                                            FL-BO6
+                                                                                                                                                        FL-BO6
 
-                                                                                                                                                                     FL-BO7
+                                                                                                                                                                 FL-BO7
 
-                                                                                                                                                                              FL-BO8
+                                                                                                                                                                          FL-BO8
 
-                                                                                                                                                                                       FL-BO9
+                                                                                                                                                                                   FL-BO9
+```
+
 1.5                Essential Skills and Good Practices in Testing
 
 1.5.1              Give examples of the generic skills required for testing                            K2                                                                                                             X
@@ -2120,32 +2376,35 @@ Chapter/                                                 Learning objective     
 section/                                                                                               level
 subsection
 
-                                                                                                                                                                                                 FL-BO10
+```
+                                                                                                                                                                                             FL-BO10
 
-                                                                                                                                                                                                           FL-BO11
+                                                                                                                                                                                                       FL-BO11
 
-                                                                                                                                                                                                                      FL-BO12
+                                                                                                                                                                                                                  FL-BO12
 
-                                                                                                                                                                                                                                FL-BO13
+                                                                                                                                                                                                                            FL-BO13
 
-                                                                                                                                                                                                                                          FL-BO14
-                                                                                                               FL-BO1
+                                                                                                                                                                                                                                      FL-BO14
+                                                                                                           FL-BO1
 
-                                                                                                                        FL-BO2
+                                                                                                                    FL-BO2
 
-                                                                                                                                 FL-BO3
+                                                                                                                             FL-BO3
 
-                                                                                                                                          FL-BO4
+                                                                                                                                      FL-BO4
 
-                                                                                                                                                   FL-BO5
+                                                                                                                                               FL-BO5
 
-                                                                                                                                                             FL-BO6
+                                                                                                                                                         FL-BO6
 
-                                                                                                                                                                      FL-BO7
+                                                                                                                                                                  FL-BO7
 
-                                                                                                                                                                               FL-BO8
+                                                                                                                                                                           FL-BO8
 
-                                                                                                                                                                                        FL-BO9
+                                                                                                                                                                                    FL-BO9
+```
+
 2.3                Maintenance Testing
 
 2.3.1              Summarize maintenance testing and its triggers                                       K2               X                                             X
@@ -2180,33 +2439,36 @@ Chapter/                                                Learning objective      
 section/                                                                                              level
 subsection
 
-                                                                                                                                                                                                FL-BO10
+```
+                                                                                                                                                                                            FL-BO10
 
-                                                                                                                                                                                                          FL-BO11
+                                                                                                                                                                                                      FL-BO11
 
-                                                                                                                                                                                                                     FL-BO12
+                                                                                                                                                                                                                 FL-BO12
 
-                                                                                                                                                                                                                               FL-BO13
+                                                                                                                                                                                                                           FL-BO13
 
-                                                                                                                                                                                                                                         FL-BO14
-                                                                                                              FL-BO1
+                                                                                                                                                                                                                                     FL-BO14
+                                                                                                          FL-BO1
 
-                                                                                                                       FL-BO2
+                                                                                                                   FL-BO2
 
-                                                                                                                                FL-BO3
+                                                                                                                            FL-BO3
 
-                                                                                                                                         FL-BO4
+                                                                                                                                     FL-BO4
 
-                                                                                                                                                  FL-BO5
+                                                                                                                                              FL-BO5
 
-                                                                                                                                                            FL-BO6
+                                                                                                                                                        FL-BO6
 
-                                                                                                                                                                     FL-BO7
+                                                                                                                                                                 FL-BO7
 
-                                                                                                                                                                              FL-BO8
+                                                                                                                                                                          FL-BO8
 
-                                                                                                                                                                                       FL-BO9
-                   Distinguish black-box test techniques, white-box test techniques and experience-    K2
+                                                                                                                                                                                   FL-BO9
+               Distinguish black-box test techniques, white-box test techniques and experience-    K2
+```
+
 4.1.1                                                                                                                   X
                    based test techniques
 4.2                Black-box Test Techniques
@@ -2241,33 +2503,36 @@ Chapter/                                                Learning objective      
 section/                                                                                                     level
 subsection
 
-                                                                                                                                                                                                       FL-BO10
+```
+                                                                                                                                                                                                   FL-BO10
 
-                                                                                                                                                                                                                 FL-BO11
+                                                                                                                                                                                                             FL-BO11
 
-                                                                                                                                                                                                                            FL-BO12
+                                                                                                                                                                                                                        FL-BO12
 
-                                                                                                                                                                                                                                      FL-BO13
+                                                                                                                                                                                                                                  FL-BO13
 
-                                                                                                                                                                                                                                                FL-BO14
-                                                                                                                     FL-BO1
+                                                                                                                                                                                                                                            FL-BO14
+                                                                                                                 FL-BO1
 
-                                                                                                                              FL-BO2
+                                                                                                                          FL-BO2
 
-                                                                                                                                       FL-BO3
+                                                                                                                                   FL-BO3
 
-                                                                                                                                                FL-BO4
+                                                                                                                                            FL-BO4
 
-                                                                                                                                                         FL-BO5
+                                                                                                                                                     FL-BO5
 
-                                                                                                                                                                   FL-BO6
+                                                                                                                                                               FL-BO6
 
-                                                                                                                                                                            FL-BO7
+                                                                                                                                                                        FL-BO7
 
-                                                                                                                                                                                     FL-BO8
+                                                                                                                                                                                 FL-BO8
 
-                                                                                                                                                                                              FL-BO9
-                   Explain how to write user stories in collaboration with developers and business            K2
+                                                                                                                                                                                          FL-BO9
+               Explain how to write user stories in collaboration with developers and business            K2
+```
+
 4.5.1                                                                                                                                            X                                                      X
                    representatives
 4.5.2              Classify the different options for writing acceptance criteria                             K2                                                                                        X
@@ -2302,32 +2567,35 @@ Chapter/                                                Learning objective      
 section/                                                                                             level
 subsection
 
-                                                                                                                                                                                               FL-BO10
+```
+                                                                                                                                                                                           FL-BO10
 
-                                                                                                                                                                                                         FL-BO11
+                                                                                                                                                                                                     FL-BO11
 
-                                                                                                                                                                                                                    FL-BO12
+                                                                                                                                                                                                                FL-BO12
 
-                                                                                                                                                                                                                              FL-BO13
+                                                                                                                                                                                                                          FL-BO13
 
-                                                                                                                                                                                                                                        FL-BO14
-                                                                                                             FL-BO1
+                                                                                                                                                                                                                                    FL-BO14
+                                                                                                         FL-BO1
 
-                                                                                                                      FL-BO2
+                                                                                                                  FL-BO2
 
-                                                                                                                               FL-BO3
+                                                                                                                           FL-BO3
 
-                                                                                                                                        FL-BO4
+                                                                                                                                    FL-BO4
 
-                                                                                                                                                 FL-BO5
+                                                                                                                                             FL-BO5
 
-                                                                                                                                                           FL-BO6
+                                                                                                                                                       FL-BO6
 
-                                                                                                                                                                    FL-BO7
+                                                                                                                                                                FL-BO7
 
-                                                                                                                                                                             FL-BO8
+                                                                                                                                                                         FL-BO8
 
-                                                                                                                                                                                      FL-BO9
+                                                                                                                                                                                  FL-BO9
+```
+
 5.2.3              Explain how product risk analysis may influence thoroughness and test scope        K2                                          X                                    X                                        X
 
 5.2.4              Explain what measures can be taken in response to analyzed product risks           K2               X                          X                                                                             X
@@ -2358,7 +2626,9 @@ Chapter 6          Test Tools
 
 6.2.1              Recall the benefits and risks of test automation                                   K1                                          X                                                        X
 
-    10. Appendix C – Release Notes
+```
+10. Appendix C – Release Notes
+```
 
 ISTQB® Foundation Syllabus v4.0.1 is an errata for Foundation Level Syllabus v4.0. This errata contains
 the following changes.
@@ -2431,8 +2701,11 @@ Corrections in the text
              reasonable level of coverage”
       •      In 5.5 “anomalies” exchanged with “defects or anomalies”
 
-      •      in 6.2 “defect rate” replaced with “failure rate” and “that are too complicated for humans to derive”
-             replaced by “that are too complicated for humans to determine"
+```
+  •      in 6.2 “defect rate” replaced with “failure rate” and “that are too complicated for humans to derive”
+         replaced by “that are too complicated for humans to determine"
+```
+
 Moreover, several typos were fixed and some terms were unified across the whole syllabus (e.g., conduct
 -> perform).
 
@@ -2471,39 +2744,41 @@ This major release has made the following changes:
                     o      Section on testing skills expanded and improved
                     o      Section on the whole team approach (K1) added
 
-                    o      Section on the independence of testing moved to Chapter 1 from Chapter 5
-      •      Major changes in chapter 2 (Testing Throughout the SDLCs)
-                    o      Sections 2.1.1 and 2.1.2 rewritten and improved, the corresponding LOs are modified
-                    o      More focus on practices like: test-first approach (K1), shift-left (K2), retrospectives (K2)
-                    o      New section on testing in the context of DevOps (K2)
-                    o      Integration testing level split into two separate test levels: component integration testing
-                           and system integration testing
-      •      Major changes in chapter 3 (Static Testing)
-                    o      Section on review techniques, together with the K3 LO (apply a review technique)
-                           removed
-      •      Major changes in chapter 4 (Test Analysis and Design)
-                    o      Use case testing removed (but still present in the Advanced Test Analyst syllabus)
-                    o      More focus on collaboration-based approach to testing: new K3 LO about using ATDD to
-                           derive test cases and two new K2 LOs about user stories and acceptance criteria
-                    o      Decision testing and coverage replaced with branch testing and coverage (first, branch
-                           coverage is more commonly used in practice; second, different standards define the
-                           decision differently, as opposed to “branch”; third, this solves a subtle, but serious flaw
-                           from the old FL2018 which claims that „100% decision coverage implies 100% statement
-                           coverage” – this sentence is not true in case of programs with no decisions)
-                    o      Section on the value of white-box testing improved
-      •      Major changes in chapter 5 (Managing the Test Activities)
-                    o      Section on test strategies/approaches removed
-                    o      New K3 LO on estimation techniques for estimating the test effort
-                    o      More focus on the well-known Agile-related concepts and tools in test management:
-                           iteration and release planning (K1), test pyramid (K1), and testing quadrants (K2)
-                    o      Section on risk management better structured by describing four main activities: risk
-                           identification, risk assessment, risk mitigation and risk monitoring
-      •      Major changes in chapter 6 (Test Tools)
-                    o      Content on some test automation issues reduced as being too advanced for the
-                           foundation level – section on tools selection, performing pilot projects and introducing
-                           tools into organization removed
+```
+                o      Section on the independence of testing moved to Chapter 1 from Chapter 5
+  •      Major changes in chapter 2 (Testing Throughout the SDLCs)
+                o      Sections 2.1.1 and 2.1.2 rewritten and improved, the corresponding LOs are modified
+                o      More focus on practices like: test-first approach (K1), shift-left (K2), retrospectives (K2)
+                o      New section on testing in the context of DevOps (K2)
+                o      Integration testing level split into two separate test levels: component integration testing
+                       and system integration testing
+  •      Major changes in chapter 3 (Static Testing)
+                o      Section on review techniques, together with the K3 LO (apply a review technique)
+                       removed
+  •      Major changes in chapter 4 (Test Analysis and Design)
+                o      Use case testing removed (but still present in the Advanced Test Analyst syllabus)
+                o      More focus on collaboration-based approach to testing: new K3 LO about using ATDD to
+                       derive test cases and two new K2 LOs about user stories and acceptance criteria
+                o      Decision testing and coverage replaced with branch testing and coverage (first, branch
+                       coverage is more commonly used in practice; second, different standards define the
+                       decision differently, as opposed to “branch”; third, this solves a subtle, but serious flaw
+                       from the old FL2018 which claims that „100% decision coverage implies 100% statement
+                       coverage” – this sentence is not true in case of programs with no decisions)
+                o      Section on the value of white-box testing improved
+  •      Major changes in chapter 5 (Managing the Test Activities)
+                o      Section on test strategies/approaches removed
+                o      New K3 LO on estimation techniques for estimating the test effort
+                o      More focus on the well-known Agile-related concepts and tools in test management:
+                       iteration and release planning (K1), test pyramid (K1), and testing quadrants (K2)
+                o      Section on risk management better structured by describing four main activities: risk
+                       identification, risk assessment, risk mitigation and risk monitoring
+  •      Major changes in chapter 6 (Test Tools)
+                o      Content on some test automation issues reduced as being too advanced for the
+                       foundation level – section on tools selection, performing pilot projects and introducing
+                       tools into organization removed
+```
 
-11. Index
+1. Index
 
 0-switch coverage, 42                                              continuous testing, 19
 2-value BVA, 40                                                    control directives, 20
@@ -2640,5 +2915,8 @@ test policy, 48                                                    white-box tes
 test procedure, 19, 20, 50                                         whole team approach, 22
 test process, 18, 19                                               Wideband Delphi, 50
 test progress report, 20, 54
+
+```
+
 ```
 

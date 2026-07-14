@@ -3,7 +3,7 @@ description: Instructional Designer Standards
 alwaysApply: true
 ---
 
-- Create one markdown file per transfer task in the current directory
+- Create one markdown file per transfer task in the directory courses/tratas-temp
 
 - The transfer task always covers a chapter or sub-chapter of the corresponding syllabus
 
