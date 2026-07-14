@@ -261,14 +261,14 @@ ttt426-agentic-test-engineering/
 |-- README.md
 |-- CHANGELOG.md
 |
-|-- agents/
+|-- agents/ (OK)
 |   |-- test-orchestrator.agent.md
 |   |-- test-manager.agent.md
 |   |-- test-analyst.agent.md
 |   |-- test-designer.agent.md
 |   `-- test-reviewer.agent.md
 |
-|-- skills/
+|-- skills/ (OK)
 |   |-- analyze-test-basis/
 |   |   `-- SKILL.md
 |   |-- product-risk-analysis/
@@ -280,20 +280,20 @@ ttt426-agentic-test-engineering/
 |   `-- review-test-artifact/
 |       `-- SKILL.md
 |
-|-- workflows/
+|-- workflows/ (OK)
 |   |-- 01-test-context-analysis.workflow.md
 |   |-- 02-test-planning.workflow.md
 |   |-- 03-test-analysis.workflow.md
 |   |-- 04-test-design.workflow.md
 |   `-- 05-test-review.workflow.md
 |
-|-- instructions/
+|-- instructions/ (OK)
 |   |-- core-guardrails.md
 |   |-- terminology.md
 |   |-- artifact-management.md
 |   `-- human-approval.md
 |
-|-- templates/
+|-- templates/ (OK)
 |   |-- test-context.template.md
 |   |-- product-risk-analysis.template.md
 |   |-- test-plan.template.md
@@ -302,19 +302,19 @@ ttt426-agentic-test-engineering/
 |   |-- artifact-review.template.md
 |   `-- handover.template.md
 |
-|-- quality-gates/
+|-- quality-gates/ (OK)
 |   |-- qg-01-context-ready.md
 |   |-- qg-02-analysis-ready.md
 |   |-- qg-03-design-ready.md
 |   `-- qg-04-human-approval.md
 |
-|-- knowledge/
+|-- knowledge/ (OK)
 |   |-- ttt426-context.md
 |   |-- test-policy.md
 |   |-- glossary.md
 |   `-- references.md
 |
-|-- projects/
+|-- projects/ (OK)
 |   `-- toolshop/
 |       |-- input/
 |       |-- working/
@@ -322,18 +322,18 @@ ttt426-agentic-test-engineering/
 |       |-- decisions/
 |       `-- status/
 |
-|-- schemas/
+|-- schemas/ (OK)
 |   |-- artifact-metadata.schema.yaml
 |   `-- workflow-state.schema.yaml
 |
-|-- scripts/
+|-- scripts/ (OK)
 |   |-- validate_artifact.py
 |   `-- create_project.py
 |
-`-- tests/
+`-- tests/ (OK)
     |-- agent-tests/
     |-- skill-tests/
-    `-- workflow-tests/
+    `-- workflow-tests/y
 ```
 
 Du kannst die Ordner mit folgendem Befehl erzeugen:
